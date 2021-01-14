@@ -11,7 +11,7 @@ module.exports = {
   author: 'Antonio Terreno',
   githubUrl: 'https://github.com/aterreno/blog',
   // replace this by the url where your website will be published
-  siteUrl: 'http://localhost:8000',
+  siteUrl: 'https://javame.netlify.app/',
   social: {
     // leave the social media you do not want to appear as empty strings
     twitter: 'javame',
