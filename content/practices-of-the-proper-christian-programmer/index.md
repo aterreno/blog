@@ -9,9 +9,9 @@ redirect_from:
   - /practices-of-the-proper-christian-programmer-e0eaaaefddd5
 ---
 
-This post is to announce the publishing of “Divine Code — Practices of the Proper Christian Programmer”.
+This post is to announce the publishing of "Divine Code — Practices of the Proper Christian Programmer".
 
-Whilst more or less appropriate commandments have a long standing tradition in software development — one of the first examples being Dijkstra’s famous “Goto Considered Harmful”, little has so far been written about sound practices in God fearing development, that acknowledge the necessity of a strong faith and recur to the spiritual experience of two millenia.
+Whilst more or less appropriate commandments have a long standing tradition in software development — one of the first examples being Dijkstra’s famous "Goto Considered Harmful", little has so far been written about sound practices in God fearing development, that acknowledge the necessity of a strong faith and recur to the spiritual experience of two millenia.
 
 The authors provide us with a step by step introduction to the practices that could very well be used as a maturity model.
 

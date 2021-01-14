@@ -19,4 +19,4 @@ Make sure that you communicated well and straight that things are gonna change n
 
 If you are a consultant, make sure that you will have enough slack on the project to work on the company culture, plan, discuss with the client when and how that work will be performed.
 
-Otherwise change won’t work: people will work in micro waterfall iterations, they will use continuous feedbacks to drive others people carriers, they will still micro manage their teams, they will eventually fail and all their effort to “change” and your effort to make them “a better” place to work for will vanish without evident benefits.
+Otherwise change won’t work: people will work in micro waterfall iterations, they will use continuous feedbacks to drive others people carriers, they will still micro manage their teams, they will eventually fail and all their effort to "change" and your effort to make them "a better" place to work for will vanish without evident benefits.

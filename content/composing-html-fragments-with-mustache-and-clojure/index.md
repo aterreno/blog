@@ -13,21 +13,23 @@ We got a fairly large code base of [mustache templates](http://mustache.github.i
 
 The two main views on the sites are article details and channel. Here’s the code responsible for the mobile article rendering.
 
-\[code language=”clojure”\](article-channel-fns \[this article\]  
+```clojure
+(article-channel-fns [this article]  
  {:head (partial head/render-for-single-mobile-article article)  
  :content (partial mobile-article/render-article article)  
  :masthead #’masthead/render-for-mobile  
  :navigation #’navigation/render-for-mobile  
  :footer #’footer/render-for-mobile})  
-\[/code\]  
+```  
 The head/render-for-single-mobile-article function looks like this:
 
-\[code language=”clojure”\](defn render-for-single-mobile-article \[a channel\]  
+```clojure
+(defn render-for-single-mobile-article [a channel]  
  (musta :channel :head (article-defaults a channel)))  
-\[/code\]  
+```  
 The main mustache template is rather simple:
 
-\[code language=”html”\]
+```html
 
 <!DOCTYPE html>  
 <html>
@@ -36,35 +38,36 @@ The main mustache template is rather simple:
 {{> templates/mobile/channel/body.html}}  
 </html>
 
-\[/code\]  
+```
 The trick is to have mustache variables that gets resolved into function calls, so that {{head}} will be resolved at page load.
 
 Musta is a simple macro that just loads the templates from file system or cache and calls the stencil library.
 
 The head template looks more or less like this:
 
-\[code language=”html”\]<head>
+```html
+<head>
 
 <title>{{page-title}}</title>
 
 {{#meta.properties}}
 
-<meta {{type}}=”{{name}}” content=”{{{content}}}” />  
+<meta {{type}}="{{name}}" content="{{{content}}}" />  
 {{/meta.properties}}
 
-<meta name=”viewport” content=”width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no” />
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no" />
 
 {{#meta.links}}  
-<link rel=”{{rel}}” href=”{{href}}” {{#title}}title=”{{.}}”{{/title}} {{#type}}type=”{{.}}”{{/type}} />  
+<link rel="{{rel}}" href="{{href}}" {{#title}}title="{{.}}"{{/title}} {{#type}}type="{{.}}"{{/type}} />  
 {{/meta.links}}
 
-<link rel=”stylesheet” type=”text/css” href=”http://{{globals.settings.fe-repo-host}}/{{globals.settings.fe-repo-version}}/css/main.css" />
+<link rel="stylesheet" type="text/css" href="http://{{globals.settings.fe-repo-host}}/{{globals.settings.fe-repo-version}}/css/main.css" />
 
 </head>  
-\[/code\]
+```
 
 #### In conclusion
 
 It’s a pretty neat and flexible way to compose your html pages, stencil proved to be very fast and bug free.
 
-Mustache has a rather extreme approach: no logic (a part from loops and simple if else) are allowed in the syntax: nevertheless it plays quite nicely generating html from clojure maps; whenever we need some conditions we pass special variables to the templates with naming conventions such as ‘map-name-count’ and ‘map-name-?’ to respectively indicate the size and the existance of the data.
+Mustache has a rather extreme approach: no logic (a part from loops and simple if else) are allowed in the syntax: nevertheless it plays quite nicely generating html from Clojure maps; whenever we need some conditions we pass special variables to the templates with naming conventions such as ‘map-name-count’ and ‘map-name-?’ to respectively indicate the size and the existence of the data.

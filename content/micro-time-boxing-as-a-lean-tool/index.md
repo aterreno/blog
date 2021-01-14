@@ -11,13 +11,13 @@ redirect_from:
 
 I’ve started a month ago to draft a Mind Map about Time Boxing particularly related to Lean concepts with [Staffan Nöteberg](http://rekursiv.se/) using [Mind Meister](https://www.mindmeister.com/), it has been fun, a sort of remote ping pong pair programming, pair thinking actually.
 
-Now I’m very busy and far from Europe (I’m a trainer in the current ThoughtWorks University batch in India) and it’s getting more diffucult to follow this “_project_”.
+Now I’m very busy and far from Europe (I’m a trainer in the current ThoughtWorks University batch in India) and it’s getting more diffucult to follow this "_project_".
 
 I decided then to make this mind map public, putting the source online, any contribution, comment and question will be very much appreciated.
 
-\[caption id=”attachment\_293" align=”alignnone” width=”300" caption=”Micro Time Boxing Mind Map”\]
+[caption id="attachment\_293" align="alignnone" width="300" caption="Micro Time Boxing Mind Map"]
 
-\[/caption\]
+[/caption]
 
 A full generated, browsable export page is [here](http://www.the-arm.com/micro_time_boxing.html).
 

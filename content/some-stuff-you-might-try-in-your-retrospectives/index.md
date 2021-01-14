@@ -9,7 +9,7 @@ redirect_from:
   - /some-stuff-you-might-try-in-your-retrospectives-4462ac2e9ec2
 ---
 
-The title of the previous post “Some stuff you might try in your team” perhaps was catchy or maybe finally I wrote something interesting since I’ve got a big jump of visits, so I go on with a similar title, talking about retrospectives and let’s see how it goes :-)
+The title of the previous post "Some stuff you might try in your team" perhaps was catchy or maybe finally I wrote something interesting since I’ve got a big jump of visits, so I go on with a similar title, talking about retrospectives and let’s see how it goes :-)
 
 There are two things that I’m doing right now when I run a retrospective:
 

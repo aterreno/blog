@@ -17,7 +17,7 @@ In this one I want to address the software design.
 As I said during the speech we don’t do that much refactoring anymore and we rather throw away the code and rewrite it from scratch.   
 [Paolo Polce](http://twitter.com/paolopolce) said more or less something like this:
 
-> “You guys are good and write good enough code already, that’s why you need less (or none) refactoring”
+> "You guys are good and write good enough code already, that’s why you need less (or none) refactoring"
 
 It’s probably true, he gave me a good explanation, from a scale from zero to ten we probably write code that is already a six or a seven, so there’s little need for refactoring.  
 I’ve to say that we do refactor a bit, especially when a new feature comes in or when we re-open the code base after a week or more.   

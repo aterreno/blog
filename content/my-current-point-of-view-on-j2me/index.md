@@ -17,7 +17,7 @@ I said to him that I’ve raised a white flag on J2ME.
 I spent more than 6 months on the development of a client that was used for two years in a row at the Java Conference in Milano and in many others gigs.   
 I’ve spent a lot of passion and work on that. I’ve received feedbacks from the people.   
   
-My aim was to develop an “universal” client, running more or less on any device.   
+My aim was to develop an "universal" client, running more or less on any device.   
 We were testing it on a quite big number of devices.   
 Then at the conference I sow people coming and saying that is not so nice on this or that device, with problems of installation, problems of the layout of the gui.   
 Problems problems problems always, but the effort to make it universal was big, confide in me.   

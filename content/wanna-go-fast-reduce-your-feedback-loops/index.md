@@ -30,10 +30,10 @@ How does it work?
 Test but not that much.   
 Profanity?
 
--   Hire good developers, most of the times they will write decent code without a test
--   Hire good developers, most of the times they will test themselves the code they wrote
--   Keep your code simple, as simple as possible. If a method is 3/5 lines of code and your code base is small it will be simple enough to change/maintain/evolve
--   Write a test when you start feeling uncomfortable, most of the times a <a href=”http://en.wikipedia.org/wiki/Read-eval-[http://en.wikipedia.org/wiki/Read-eval-print\_loop](http://en.wikipedia.org/wiki/Read-eval-print_loop)">REPL will be actually good enough to prove you are writing your code in the right way
+- Hire good developers, most of the times they will write decent code without a test
+- Hire good developers, most of the times they will test themselves the code they wrote
+- Keep your code simple, as simple as possible. If a method is 3/5 lines of code and your codebase is small it will be simple enough to change,maintain, evolve
+- Write a test when you start feeling uncomfortable, most of the times a <a href="http://en.wikipedia.org/wiki/Read-eval-[http://en.wikipedia.org/wiki/Read-eval-print\_loop](http://en.wikipedia.org/wiki/Read-eval-print_loop)">REPL</a> will be actually good enough to prove you are writing your code in the right way
 
 Ok, what about maintainability and refactoring?
 

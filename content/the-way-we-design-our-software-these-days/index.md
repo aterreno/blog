@@ -54,7 +54,7 @@ Then let me paste here also the golden rules from [Eric Raymond](http://www.amaz
 -   Rule of Economy: Programmer time is expensive; conserve it in preference to machine time.
 -   Rule of [Generation](http://en.wikipedia.org/wiki/Code_generation "Code generation"): Avoid hand-hacking; write programs to write programs when you can.
 -   Rule of [Optimization](http://en.wikipedia.org/wiki/Optimization_%28computer_science%29 "Optimization (computer science)"): [Prototype](http://en.wikipedia.org/wiki/Prototype "Prototype") before polishing. Get it working before you optimize it.
--   Rule of Diversity: Distrust all claims for “one true way”.
+-   Rule of Diversity: Distrust all claims for "one true way".
 -   Rule of Extensibility: Design for the future, because it will be here sooner than you think.
 
 Now believe or not but you can trash away lots of books just following these rules.   

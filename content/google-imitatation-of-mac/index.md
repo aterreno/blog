@@ -18,8 +18,8 @@ I mean, it’s the same stuff, it’s cool but takes tons of memory.
 Also the crawler, it’s nothing more than the finder :-) Isn’t amazing?
 
 By the way I really like the google spreedsheet, [http://](http://spreadsheets.google.com/)spreadsheets.**google**.com/   
-With jmdf now we have a shared spreedsheet of our mobile phones, isn’t cool? \[credits to edschepis\]
+With jmdf now we have a shared spreedsheet of our mobile phones, isn’t cool? [credits to edschepis]
 
-Another “web 2.0” cool thing that I’ve tried is the integration with web services beetween flickr and this WP blog… Was really easy the cooperation, was easy to setup (cos no setup!) …
+Another "web 2.0" cool thing that I’ve tried is the integration with web services beetween flickr and this WP blog… Was really easy the cooperation, was easy to setup (cos no setup!) …
 
 This is the direction, more easy for everyone, more mac style in the end… ;-)

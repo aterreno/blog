@@ -33,7 +33,7 @@ The point is that since Agile is becoming mainstream it’s getting polluted by 
 
 My presentation tried to explain that you should use just the right tools for the context you are in and avoid using the full stack just because you heard of it.
 
-As [ziobrando](http://twitter.com/#!/ziobrando) put it on twitter: “ Great insights from @javame yesterday evening. Funny to see how contexts put dogmas in perspective.”
+As [ziobrando](http://twitter.com/#!/ziobrando) put it on twitter: " Great insights from @javame yesterday evening. Funny to see how contexts put dogmas in perspective."
 
 [emadb](http://twitter.com/#!/emadb) did tweet something like: @javame is a revolutionary, we should reflect on his good session, a lot.
 

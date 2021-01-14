@@ -16,6 +16,6 @@ Thanks to Bertini Maurizio from the Italian Ruby ML I know that yes, maybe it’
 
 > Open Source Ruby on Rails application scoops award.
 
-> Blue Fountain Systems beat off stiff competition from Marks & Spencer and the FOCUS DIY chain to win the award for their Blue Sequence solution which forms part of Toyota Motor Manufacturing’s own “sequence in time” production process.
+> Blue Fountain Systems beat off stiff competition from Marks & Spencer and the FOCUS DIY chain to win the award for their Blue Sequence solution which forms part of Toyota Motor Manufacturing’s own "sequence in time" production process.
 
 > The system, which is used by Futaba Industrial UK Ltd at their new factory in Derbyshire, has been written with open source technologies and uses the Ruby on Rails web framework as the web front end for the application to handle real time data from the Toyota production line, processing signals to manufacture and deliver the right part, to the right point, at the right time in the manufacturing process with the whole process taking less than 8 hours.

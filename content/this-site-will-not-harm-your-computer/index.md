@@ -9,7 +9,7 @@ redirect_from:
   - /this-site-will-not-harm-your-computer-fa746bcf4fae
 ---
 
-I had few problems with Google in the last months. Java2me.org wordpress instance has been hacked by an hacker inserting some iframes on my blog posts, I had to remove them all (btw, if you had the same problem, it’s easy to identify them with a “SELECT \* FROM wp\_posts WHERE post\_content like ‘%iframe%’”, I thought also to add a cron job on the server, just to monitor the situation…) and then I had to submit the site to google few times, since I was marked as a bad boy.
+I had few problems with Google in the last months. Java2me.org wordpress instance has been hacked by an hacker inserting some iframes on my blog posts, I had to remove them all (btw, if you had the same problem, it’s easy to identify them with a "SELECT \* FROM wp\_posts WHERE post\_content like ‘%iframe%’", I thought also to add a cron job on the server, just to monitor the situation…) and then I had to submit the site to google few times, since I was marked as a bad boy.
 
 It took me ages to be reviewed again and Java2Me.Org is still considered bad, then I moved here and I put on the old website a permanent redirect. Surprise, now google says that this site is related to that one and it’s dangerous too. Fantastic.
 
@@ -25,6 +25,6 @@ Not related to this post, but just to make me feel less angry with this situatio
 
 > Privacy-minded folks point out that as Google has become part of our everyday lives, our tastes and preferences on the net give away a lot more than we’d normally share with a stranger, let alone a corporation with nearly 14,000 employees worldwide.
 
-> While Google keeps your search terms until 2038, the folks at [Scroogle](http://scroogle.org/) delete the logs after 48 hours and vow to keep no cookies. What’s better is the search uses Google’s own technology. In technospeak, it randomly generates an IP number (the thing that allows your computer to be ID’d) and sends your request off to Google. When Google responds, it shows you the search results. Hence the name, as it “scrapes” the search engine giant to get results.
+> While Google keeps your search terms until 2038, the folks at [Scroogle](http://scroogle.org/) delete the logs after 48 hours and vow to keep no cookies. What’s better is the search uses Google’s own technology. In technospeak, it randomly generates an IP number (the thing that allows your computer to be ID’d) and sends your request off to Google. When Google responds, it shows you the search results. Hence the name, as it "scrapes" the search engine giant to get results.
 
 > [Privoxy](http://www.privoxy.org/) is a non-caching web proxy with advanced filtering capabilities for enhancing privacy, modifying web page data, managing HTTP cookies, controlling access, and removing ads, banners, pop-ups and other obnoxious Internet junk. Privoxy has a flexible configuration and can be customized to suit individual needs and tastes. Privoxy has application for both stand-alone systems and multi-user networks.

@@ -11,7 +11,7 @@ redirect_from:
 
 I’m just having a look to Fan and it seems quite a cool language, soon more posts on this.
 
-[Fan Programming Language](http://www.fandev.org/): “Portability  
+[Fan Programming Language](http://www.fandev.org/): "Portability  
 Write code portable to both the Java VM and the .NET CLR.
 
 **Familiar Syntax**  

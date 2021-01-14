@@ -10,7 +10,7 @@ redirect_from:
 ---
 
 I do like [LinkedIn](https://www.linkedin.com/), I do read the feed from time to time, with some tuning I can even find LinkedIn useful, sure I never found a job with it but it’s still a decent platform to build work relationships.   
-How, since I became an Employer the spam increased, when I was “just an employee” the spam was mainly from Recruiters or people wanting to hire me, which is flattering right, makes you feel good, makes you think that, hey I am good at this, I am getting so many “exciting” opportunities, typically involving XML, Oracle and JSPs.  
+How, since I became an Employer the spam increased, when I was "just an employee" the spam was mainly from Recruiters or people wanting to hire me, which is flattering right, makes you feel good, makes you think that, hey I am good at this, I am getting so many "exciting" opportunities, typically involving XML, Oracle and JSPs.  
 But then while being a Partner at [Equal Experts](https://www.equalexperts.com/) and now as CTO at [Labrador](https://www.thelabrador.co.uk/), the spam increased, so I finally took some time and tuned [my privacy settings](https://www.linkedin.com/psettings/privacy).   
 With some pretty easy work, nobody is contacting me anymore selling me offshore work, cheap developers, recruitment services, coaching, any sort of unwanted help.   
 It’s almost weird and sad now, to open LinkedIn and find no notifications: what, nobody wants me anymore? Nobody likes me anymore? The psychology behind these social networks is fascinating.   

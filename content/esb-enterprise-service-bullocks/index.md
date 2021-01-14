@@ -19,7 +19,7 @@ The first weird thing is that everybody is writing an [ESB](http://en.wikipedia.
 
 The second very bad thing is maintenance. I had to change a little some JBI components written a couple of months ago, it has been painful, ServiceMix is all about XML configuration but you have no clue on what’s talking with who, which service is connected to what and why, you change a name and bang, nothing works anymore. Aweful.
 
-You might buy one of those cool ESB (Oracle, Tibco, the list is long) offering a “nice UI” to drag and drop components, well I’m sceptical, never been a big fan of this type of tools (vendors too, to be honest).
+You might buy one of those cool ESB (Oracle, Tibco, the list is long) offering a "nice UI" to drag and drop components, well I’m sceptical, never been a big fan of this type of tools (vendors too, to be honest).
 
 Testability. Assuming that you care about testing how do you want to test this stuff? Writing long running integration tests?
 

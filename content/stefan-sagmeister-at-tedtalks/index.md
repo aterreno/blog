@@ -11,7 +11,7 @@ redirect_from:
 
 I’m just 100% aligned with this
 
-[Stefan Sagmeister at TEDTalks: “Yes, design can make you happy” — (37signals)](http://www.37signals.com/svn/posts/507-stefan-sagmeister-at-tedtalks-yes-design-can-make-you-happy)  
+[Stefan Sagmeister at TEDTalks: "Yes, design can make you happy" — (37signals)](http://www.37signals.com/svn/posts/507-stefan-sagmeister-at-tedtalks-yes-design-can-make-you-happy)  
 A list from designer Stefan Sagmeisterâ€™s diary:
 
 Complaining is silly. Either act or forget.  

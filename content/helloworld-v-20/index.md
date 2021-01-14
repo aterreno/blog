@@ -13,7 +13,7 @@ Once upon a time we used to write:
 
 ```
 public static void main(String[] args) {
-   System.out.println(”Hello World”);
+   System.out.println("Hello World");
 }
 ```
 
@@ -28,10 +28,10 @@ public void shouldSayHelloToTheGivenName() throws Exception {
         Greeter greeter = new Greeter(mockStream);
 
 // when
-    greeter.helloworld(”toni”);
+    greeter.helloworld("toni");
 
 // then
-    verify(mockStream).println(”Hello world, toni”);
+    verify(mockStream).println("Hello world, toni");
 
 }
 ```

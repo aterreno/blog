@@ -11,7 +11,7 @@ redirect_from:
 
 Agile is hard to embrace, agile is hard to teach.
 
-“The problem” (and the strength) of agile development is that it never defines strict rules to follow always and in any occasion.
+"The problem" (and the strength) of agile development is that it never defines strict rules to follow always and in any occasion.
 
 I can imagine myself being a consultant preaching [RUP](http://en.wikipedia.org/wiki/IBM_Rational_Unified_Process) (IBM I am not impressed with you guys preaching agile), I’ll give to the client the book, I’ll tell them to follow my rules, end of the story.
 

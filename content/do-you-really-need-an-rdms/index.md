@@ -19,7 +19,7 @@ It ended up having a chart of three available tecnologies for storing our data:
 -   [Object Database](http://en.wikipedia.org/wiki/Object_database)
 -   [Hibernate](http://www.hibernate.org/) / JPA
 
-I never heard of triple store before and I found it quite interesting, apparently there’s an [Oracle 11g RDF](http://www.oracle.com/technology/tech/semantic_technologies/index.html) version to store triple stores, looking at the Oracle Web Site it seems like you need few patches and some hacks in order to “install” the stored procedures to enable the RDMS to perform RDF queries.
+I never heard of triple store before and I found it quite interesting, apparently there’s an [Oracle 11g RDF](http://www.oracle.com/technology/tech/semantic_technologies/index.html) version to store triple stores, looking at the Oracle Web Site it seems like you need few patches and some hacks in order to "install" the stored procedures to enable the RDMS to perform RDF queries.
 
 I’ve already had a look to [db4o](http://www.db4o.com/), but I’ve been impressed on the [whitepapers](http://www.versant.com/developer/resources/objectdatabase/whitepapers) from [Versant](http://www.versant.com/) (that owns db4o).
 

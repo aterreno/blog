@@ -59,7 +59,7 @@ There’s no scrum master, indeed, scrum wasn’t born but the tracker role soun
 
 Last but not least there’s a mention to the [pomodoro technique](http://www.pomodorotechnique.com/):
 
-> (Francesco Cirillo told us he bought a half-hour kitchen timer in the shape of a tomato, so they now refer to a “six-tomato task.”)
+> (Francesco Cirillo told us he bought a half-hour kitchen timer in the shape of a tomato, so they now refer to a "six-tomato task.")
 
 **Conclusions**
 

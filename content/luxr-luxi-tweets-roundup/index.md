@@ -35,11 +35,11 @@ redirect_from:
 
 [@SaintSal](http://twitter.com/#!/SaintSal) [@ultraman](http://twitter.com/#!/ultraman) is talking about #gamestorming. More info on that at [http://gogamestorm.com](http://gogamestorm.com) and [http://leanca.mp](http://leanca.mp) too! #luxr
 
-[@mahemoff](http://twitter.com/#!/mahemoff) Apple UX works according to one persona, his name is “Steve “. Elsewhere personae are actually useful. #luxr
+[@mahemoff](http://twitter.com/#!/mahemoff) Apple UX works according to one persona, his name is "Steve ". Elsewhere personae are actually useful. #luxr
 
 [@javame](http://twitter.com/#!/javame) Innovation at Google [http://slidesha.re/prAolY](http://slidesha.re/prAolY) the paper prototyping kit to build the park-jerk app I just mentioned at #luxr
 
-[@SaintSal](http://twitter.com/#!/SaintSal): With personas, look for edge cases where if you design for them, you get the common user “for free.” #luxr
+[@SaintSal](http://twitter.com/#!/SaintSal): With personas, look for edge cases where if you design for them, you get the common user "for free." #luxr
 
 [@SaintSal](http://twitter.com/#!/SaintSal): Pairing with designers saves a lot of time. To see how much, start with a test — pairing with a tricky bit. #luxr
 
@@ -53,11 +53,11 @@ redirect_from:
 
 [@Ultraman](http://twitter.com/#!/Ultraman) : If it does not work pull it. Knee jerk reactions are affordable when you do not have a brand reputation yet. #LeanUx #LUXr
 
-[@whatterz](http://twitter.com/#!/whatterz): “Test in pennies, spend in dollars.” #LeanUx #LUXr
+[@whatterz](http://twitter.com/#!/whatterz): "Test in pennies, spend in dollars." #LeanUx #LUXr
 
-[@hmitsch](http://twitter.com/#!/hmitsch): Move from “Product Owner” terminology to “Product Stewardship” understanding, creating things together. We are one product team. #LUXr
+[@hmitsch](http://twitter.com/#!/hmitsch): Move from "Product Owner" terminology to "Product Stewardship" understanding, creating things together. We are one product team. #LUXr
 
-[@javame](http://twitter.com/#!/javame): empathy mapping [http://t.co/F6gI70F](http://t.co/F6gI70F) to develop personas #luxr”
+[@javame](http://twitter.com/#!/javame): empathy mapping [http://t.co/F6gI70F](http://t.co/F6gI70F) to develop personas #luxr"
 
 [@SaintSal](http://twitter.com/#!/SaintSal) Usability testing is like your liver. It won’t keep you alive but it will keep you from dying. #luxr #LeanStartup
 

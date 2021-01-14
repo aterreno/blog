@@ -17,37 +17,38 @@ Here’s a list of some of the patterns I’ve followed.
 
 #### Have a basedir variable available
 
-\[code language=”bash”\]  
-script\_base=”\`dirname “$0”\`”  
-\[/code\]
+```bash
+script\_base="\`dirname "$0"\`"  
+```
 
 **S**eparation of concerns
 
 Write loosely couple bash code in separate files, import them by doing:
 
-\[code language=”bash”\]  
+```bash
 . $script\_base/utils/colors.sh  
-\[/code\]
+```
 
 #### Avoid global state
 
 Limit as much as possible global state (variables), they are evil in any language  
-\[code language=”bash”\]  
+
+```bash
 export PATH=/usr/pkg/sbin:/usr/pkg/bin:$PATH  
-\[/code\]  
+```  
 Is my one and only export and ‘public’ variable in the script
 
 #### Separation of concerns
 
 Write independent, small functions
 
-\[code language=”bash”\]  
+```bash  
 \# Utility function to retrive configuration properties, uses jq   
 function get\_config {   
  local environment=$1 local config=$2  
- jq -r “.$environment.$config” config.json  
+ jq -r ".$environment.$config" config.json  
 }  
-\[/code\]
+```
 
 #### Documentation
 
@@ -59,60 +60,61 @@ Leverage local scope: Use [local variables](http://tldp.org/LDP/abs/html/localva
 
 #### Principle Of Least Astonishment
 
-Check error codes often and offer meaninful log messages
+Check error codes often and offer meaningful log messages
 
-\[code language=”bash”\]  
+```bash  
 \# Checks the return code of the last command run and outputs error / exit if not nil  
 function check\_error {   
- if \[ $? -ne 0 \];   
+ if [ $? -ne 0 ];   
  then   
- error “\[ERR\] $1”   
+ error "[ERR] $1"   
  exit 1   
  fi   
 }  
-\[/code\]
+```
 
 #### User interaction
 
 Use colors, Bash is fun with colors  
-\[code language=”bash”\]  
+
+```bash  
 function error {   
- echo “$(tty -s &amp;&amp; tput setaf 1)$1$(tty -s &amp;&amp; tput sgr0)”   
+ echo "$(tty -s &amp;&amp; tput setaf 1)$1$(tty -s &amp;&amp; tput sgr0)"   
 }
 
 function ok {   
- echo “$(tty -s &amp;&amp; tput setaf 2)$1$(tty -s &amp;&amp; tput sgr0)”   
+ echo "$(tty -s &amp;&amp; tput setaf 2)$1$(tty -s &amp;&amp; tput sgr0)"   
 }
 
 function warn {   
- echo “$(tty -s &amp;&amp; tput setaf 3)$1$(tty -s &amp;&amp; tput sgr0)”   
+ echo "$(tty -s &amp;&amp; tput setaf 3)$1$(tty -s &amp;&amp; tput sgr0)"   
 }  
-\[/code\]
+```
 
 #### Defensive coding
 
 Check error codes properly also when you run remote scripts
 
-\[code language=”bash”\]  
+```bash  
 \# Runs a command on remote ssh  
 function ssh\_exec {   
  local remote\_user=$1   
  local remote\_command=$2   
  local results
 
-results=$(ssh -T -q “$remote\_user” “$remote\_command”)  
- if \[ $? -ne 0 \];   
+results=$(ssh -T -q "$remote\_user" "$remote\_command")  
+ if [ $? -ne 0 ];   
  then   
- log “remote code execution return: $?”   
- log “remote code execution output: $results”  
- error “\[ERR\] Failed running remote command: $remote\_command”  
+ log "remote code execution return: $?"   
+ log "remote code execution output: $results"  
+ error "[ERR] Failed running remote command: $remote\_command"  
  exit 1  
  fi   
 }  
-\[/code\]
+```
 
 #### In Conclusion
 
-Don’t undersestimate Bash, it’s an awesome, Turing Complete language and requires no installation.
+Don’t underestimate Bash, it’s an awesome, Turing Complete language and requires no installation.
 
-When the code starts to get too nasty, use your favourite scripting language!
+When the code starts to get too nasty, use your favorite scripting language!

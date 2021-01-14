@@ -15,7 +15,7 @@ In two weeks a team of five developers managed to setup a project using state of
 
 Not only we have a use case up and running and we are able to show case it to the customer.
 
-Now, few choices in my opinion made this “more agile”.
+Now, few choices in my opinion made this "more agile".
 
 -   The usage of [Maven](http://maven.apache.org/), we have probably 50 dependencies, I can’t imagine how to handle this with ant.
 -   The usage of [Hudson](https://hudson.dev.java.net/) as CI tool, simple UI, no need to read the manual

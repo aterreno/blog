@@ -15,7 +15,7 @@ FRANKFURT/LONDON (Reuters) — British chip designer ARM (ARM.L: Quote, Prof
 Source: [Reuters](http://www.reuters.com/article/technologyNews/idUSWEB442320080207)
 
 I’ve played a bit last week with [Android](http://code.google.com/android/), it’s a really promising technology.   
-It’s a full stack, based on Java, it’s open and it should be really a “write once run everywhere” technology (not like JavaME!).  
+It’s a full stack, based on Java, it’s open and it should be really a "write once run everywhere" technology (not like JavaME!).  
   
   
 It’s a big change: they first wrote the OS, the software and then finally they found an hardware to support it. It might really work.   
@@ -30,7 +30,7 @@ Android offers many things, missed for too many years by Sun on the JavaMe platf
 
 \- Deep phone integration (ability to interoperate between apps, make calls and so on with the phone)  
   
-\- Ready to use “widgets” like maps  
+\- Ready to use "widgets" like maps  
   
 \- Pretty nice pattern to write an application: what was a MIDlet in the JavaME world is now and Activity.  
    

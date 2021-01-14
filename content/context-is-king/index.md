@@ -13,7 +13,7 @@ I’ve got quite some constructive [comments](http://www.the-arm.com/2010/10/wan
 
 So I thought about collecting all the feedbacks here in this post to better explain my position on the topic.
 
-There are some contexts were that “methodology” I did explain, let’s call it process 0.01%, won’t clearly work.
+There are some contexts were that "methodology" I did explain, let’s call it process 0.01%, won’t clearly work.
 
 Now, I still don’t fully understand why, but it’s a fact. (many times is caused by politics and fear in dysfunctional organizations)
 

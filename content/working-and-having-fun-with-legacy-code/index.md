@@ -17,4 +17,4 @@ Cos we setted up some ant tasks: [CheckStyle](http://checkstyle.sourceforge.net/
 
 All together runs on [Cruise Control](http://cruisecontrol.sourceforge.net/).
 
-Abbot is very very nice and powerful: you can record the user operation on the GUI, the test is written in xml and then you can run it from a Junit class. You can also write some “scripts”, means that you can write some java code and then put these expressions in your xml test.
+Abbot is very very nice and powerful: you can record the user operation on the GUI, the test is written in xml and then you can run it from a Junit class. You can also write some "scripts", means that you can write some java code and then put these expressions in your xml test.

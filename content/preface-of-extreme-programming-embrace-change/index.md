@@ -9,7 +9,7 @@ redirect_from:
   - /preface-of-extreme-programming-embrace-change-7c2a61e96925
 ---
 
-To some folks, XP seems like just good common sense. So why the “extreme” in the name? XP   
+To some folks, XP seems like just good common sense. So why the "extreme" in the name? XP   
 takes commonsense principles and practices to extreme levels.   
 â —  If code reviews are good, we’ll review code all the time (pair programming).   
 â —  If testing is good, everybody will test all the time (unit testing), even the customers   
@@ -21,5 +21,5 @@ current functionality (the simplest thing that could possibly work). 
 time (metaphor).   
 â —  If integration testing is important, then we’ll integrate and test several times a day   
 (continuous integration).   
-â —  If short iterations are good, we’ll make the iterations really, really shortâ€”seconds and   
+â —  If short iterations are good, we’ll make the iterations really, really shortâ€"seconds and   
 minutes and hours, not weeks and months and years (the Planning Game).

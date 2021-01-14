@@ -34,11 +34,11 @@ Alistair points out also the importance of the office layout, of the chair, havi
 
 **Iterative Development**
 
-One of the aspects I’ve liked of this book is the focus on the team happiness, on the humans. Rather than “justifying” iterations in order to deliver value to the customer, the author says that iterations will improve the consciousness of the team of its own velocity.
+One of the aspects I’ve liked of this book is the focus on the team happiness, on the humans. Rather than "justifying" iterations in order to deliver value to the customer, the author says that iterations will improve the consciousness of the team of its own velocity.
 
 > Fixed-length iterations allow the team to measure their speed of movement the project’s velocity.
 
-> Fixed lengths iterations give that rhythm to the project that people describe as the project’s “heartbeat.”
+> Fixed lengths iterations give that rhythm to the project that people describe as the project’s "heartbeat."
 
 > The results of an iteration may or may not get released.
 
@@ -66,6 +66,6 @@ Focus is essential, Alistair talks more about having a priorized list of tasks t
 
 **Conclusions**
 
-> Ron Jeffries once characterized Crystal Clear as, “Bring a few developers together in peace, love and harmony, shipping code every other month, and good software will emerge.
+> Ron Jeffries once characterized Crystal Clear as, "Bring a few developers together in peace, love and harmony, shipping code every other month, and good software will emerge.
 
 I agree, I would add that Crystal gives some hints on how to maximize the happyness and productivity of the team that other methologies don’t discuss at all, in the end the best thing you can do is mix something from Crystal with XP & Scrum to obtain the best results.

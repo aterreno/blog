@@ -37,7 +37,7 @@ I don’t feel welcome any longer in this country, it is sad and frightening but
 
 I made a mistake and I think a lot of EU immigrants made the same mistake: I didn’t apply for British citizenship, I always felt like an EU citizen, living on EU soil, I was wrong. I couldn’t cast my vote. How many of us made the same mistake?
 
-At the hospital one of the midwives that helped us deliver our baby told us: “I am Romanian, I worked here for 15 years, I always paid taxes, I went to the polling station and they told me I couldn’t vote, why?”
+At the hospital one of the midwives that helped us deliver our baby told us: "I am Romanian, I worked here for 15 years, I always paid taxes, I went to the polling station and they told me I couldn’t vote, why?"
 
 There you go, the UK never fully joined the EU, otherwise there would have been different laws, like in other countries, after 10 years paying taxes in this country, why are we not integrated, why can’t we vote?
 

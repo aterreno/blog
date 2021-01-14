@@ -25,7 +25,7 @@ There is clear: something is wrong, the responsibility is not where the if is bu
 
 So, an example.
 
-On a project (in a Domain Driven Architecture) we had a fairly long “if type then, else if type then, etc…”
+On a project (in a Domain Driven Architecture) we had a fairly long "if type then, else if type then, etc…"
 
 The if chain was on different Tasks Types in a workflow engine.
 

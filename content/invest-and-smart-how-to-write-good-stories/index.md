@@ -28,6 +28,6 @@ And:
 -   R — Relevant
 -   T — Time-boxed
 
-The “pattern” must be something like As I want to so that
+The "pattern" must be something like As I want to so that
 
 **As** a Blogger **I want to** write this post **so that** people can start to write good user stories!

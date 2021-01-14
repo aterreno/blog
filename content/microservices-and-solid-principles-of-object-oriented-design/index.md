@@ -21,7 +21,7 @@ I’ve taken the [Principles Of Object Oriented Design](http://c2.com/cgi/wiki?P
 6.  2.1 You should never need to change existing code or microservices: rather rewrite it.  
     This prevents you from introducing new bugs in existing code. If you never change it, you can’t break it. It also prevents you from fixing existing bugs in existing code, if taken to the extreme.
 7.  [The Liskov Substitution Principle](http://c2.com/cgi/wiki?LiskovSubstitutionPrinciple)
-8.  3.1 If for each microservice instance m1 of type S there is a microservice instance m2 of type T such that for all other microservices P defined in terms of T, the behavior of P is unchanged when m1 is substituted for m2 then S is a rewrite of T.”
+8.  3.1 If for each microservice instance m1 of type S there is a microservice instance m2 of type T such that for all other microservices P defined in terms of T, the behavior of P is unchanged when m1 is substituted for m2 then S is a rewrite of T."
 9.  [The Interface Segregation Principle](http://c2.com/cgi/wiki?InterfaceSegregationPrinciple)  
     4.1 The dependency of one microservice to another one should depend on the smallest possible interface.
 10.  [The Dependency Inversion Principle](http://c2.com/cgi/wiki?DependencyInversionPrinciple)

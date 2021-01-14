@@ -9,7 +9,7 @@ redirect_from:
   - /ibm-rational-clearcase-ucm-estimate-the-impact-of-a-tool-in-a-project-39d4a637eeb
 ---
 
-When you estimate stories you have to consider also some “external” things that can effect your project.
+When you estimate stories you have to consider also some "external" things that can effect your project.
 
 I never used before Clear Case, well, it’s the winner for this month of the (right now introduced category) office for complication of simple things (direct translation from the italian Ufficio Complicazione Cose Semplici UCCS).
 

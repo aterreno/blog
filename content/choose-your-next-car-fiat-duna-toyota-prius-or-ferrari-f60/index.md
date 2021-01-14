@@ -9,17 +9,17 @@ redirect_from:
   - /choose-your-next-car-fiat-duna-toyota-prius-or-ferrari-f60-a95f522b6537
 ---
 
-\[caption id=”” align=”alignnone” width=”950" caption=”Mass Production”\]
+[caption id="" align="alignnone" width="950" caption="Mass Production"]
 
-\[/caption\]
+[/caption]
 
-\[caption id=”” align=”alignnone” width=”600" caption=”Lean”\]
+[caption id="" align="alignnone" width="600" caption="Lean"]
 
-\[/caption\]
+[/caption]
 
-\[caption id=”” align=”alignnone” width=”776" caption=”Craftsmanship”\]
+[caption id="" align="alignnone" width="776" caption="Craftsmanship"]
 
-\[/caption\]
+[/caption]
 
 If you’re lucky, you can afford Craftsmanship, good for you. You’ll have top quality, in a hand crafted sports car.
 

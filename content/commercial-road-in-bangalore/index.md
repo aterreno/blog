@@ -13,4 +13,4 @@ redirect_from:
 
 I simply love this picture and it’s one of the best that I ever made.
 
-The adventure in Bangalore is almost finished and I’ll write a “tecnical report” maybe tomorrow, it was amazing and cool and ThoughtWorks gave us really a big chance to grow and have fun here.
+The adventure in Bangalore is almost finished and I’ll write a "tecnical report" maybe tomorrow, it was amazing and cool and ThoughtWorks gave us really a big chance to grow and have fun here.

@@ -9,11 +9,11 @@ redirect_from:
   - /i-still-read-too-many-switches-b32a306ca4ee
 ---
 
-Yes, I still read too much code with switches inside. I hate it. There’s still also a “nice” page on the official website of Sun on how to write really nasty code, it’s [here](http://java.sun.com/docs/books/tutorial/java/nutsandbolts/switch.html). I don’t wanna infect this blog, so I’m not pasting that example of code here. I paste only a quote, it says:
+Yes, I still read too much code with switches inside. I hate it. There’s still also a "nice" page on the official website of Sun on how to write really nasty code, it’s [here](http://java.sun.com/docs/books/tutorial/java/nutsandbolts/switch.html). I don’t wanna infect this blog, so I’m not pasting that example of code here. I paste only a quote, it says:
 
 > Deciding whether to use if-then-else statements or a switch statement is sometimes a judgment call.
 
-Yes, indeed. And the judgment call is: “should I write a long list of if then else or maybe think on some kind of polymorphism?” The switch is not an option. Switch smells of poor design, smells of “you dude, writing that code, you don’t know what object oriented is!”. It’s not well testable, it’s ugly.
+Yes, indeed. And the judgment call is: "should I write a long list of if then else or maybe think on some kind of polymorphism?" The switch is not an option. Switch smells of poor design, smells of "you dude, writing that code, you don’t know what object oriented is!". It’s not well testable, it’s ugly.
 
 The web is plenty of examples on how to refactor from a switch to a decent design, just searching right now, I’ve found a good one [here](http://hanuska.blogspot.com/2006/08/swich-statement-code-smell-and.html).
 

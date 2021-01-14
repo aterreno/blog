@@ -23,7 +23,7 @@ In 2017 I started a new job, no more consulting gigs, so I started using more an
 
 It was in fact since 2013 that I wasn’t properly active, that year I’ve run the [Brighton Half Marathon](https://www.brightonhalfmarathon.com/), injuring myself straight after by running too fast, too soon (classic) with a pair of five fingers Vibram.
 
-So I started running again, and that old thought of mine, “I want to do a triathlon” came back from my pre-Brighton Half memories.
+So I started running again, and that old thought of mine, "I want to do a triathlon" came back from my pre-Brighton Half memories.
 
 Which events did I take part in?
 

@@ -17,11 +17,11 @@ I am developing with a friend a small client server bluetooth application (an op
 > The easiest way to get those drivers is:  
 > 1\. Download and install latest Apple Boot Camp from [http://www.apple.com/macosx/bootcamp/](http://www.apple.com/macosx/bootcamp/)  
 > 2\. Browse to Macintosh HD->Applications->Utilities  
-> 3\. Right-click the “Boot Camp Assistant” and select “Show Package Contents”.  
+> 3\. Right-click the "Boot Camp Assistant" and select "Show Package Contents".  
 > 4\. Go to Contents->Resources and click the DiskImage.dmg to mount it.  
-> 5\. Find the “Install Macintosh Drivers for Windows XP.exe” and copy inside your VM.  
+> 5\. Find the "Install Macintosh Drivers for Windows XP.exe" and copy inside your VM.  
 > 6\. Run the file. In a short while, all necessary drivers will be installed. Reboot
 
 > PS: We can’t redistribute Apple software, that is why you don’t have bluetooth drivers by default.
 
-(\*) I had also some strange problems with my upgrade to 3170 RC3,Â the screen was black at startup, fortunately the [Parallels forum](http://forum.parallels.com/thread8920.html) rocks and I found that you simply have to start WinXP in “safe” mode, then reinstall the Paralllels tools, not from the menu, but mounting that from the parallels installation, then you’ll find them mounted on the D: letter of your Parallels winXP.
+(\*) I had also some strange problems with my upgrade to 3170 RC3,Â the screen was black at startup, fortunately the [Parallels forum](http://forum.parallels.com/thread8920.html) rocks and I found that you simply have to start WinXP in "safe" mode, then reinstall the Paralllels tools, not from the menu, but mounting that from the parallels installation, then you’ll find them mounted on the D: letter of your Parallels winXP.

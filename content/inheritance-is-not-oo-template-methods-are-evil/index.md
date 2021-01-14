@@ -28,13 +28,13 @@ But what to do then, when you need to call something before or after? Aspects ma
 >  public void setUp() {
 
 > }  
->  @Test(groups = { “fast” })  
+>  @Test(groups = { "fast" })  
 >  public void aFastTest() {  
->  System.out.println(“Fast test”);  
+>  System.out.println("Fast test");  
 >  }  
->  @Test(groups = { “slow” })  
+>  @Test(groups = { "slow" })  
 >  public void aSlowTest() {  
->  System.out.println(“Slow test”);  
+>  System.out.println("Slow test");  
 >  }  
 > }
 
@@ -49,14 +49,14 @@ But what to do then, when you need to call something before or after? Aspects ma
 >  \* @Before execution(\* testAOP.HelloWorld.greet(..))  
 >  \*/  
 >  public void beforeGreeting(JoinPoint joinPoint) {  
->  System.out.println(“before greeting…”);  
+>  System.out.println("before greeting…");  
 >  }
 
 > /\*\*  
 >  \* @After execution(\* testAOP.HelloWorld.greet(..))  
 >  \*/  
 >  public void afterGreeting(JoinPoint joinPoint) {  
->  System.out.println(“after greeting…”);  
+>  System.out.println("after greeting…");  
 >  }
 
 > }
@@ -67,7 +67,7 @@ Spring is also another well known framework that plays with this stuff, in the r
 > clearly the XML-style is the best because it is the only option available to you. If you are using Java5+, then  
 > you really will have to come to your own decision as to which style suits you best. In the experience of the  
 > Spring team, we advocate the use of the @AspectJ style whenever there are aspects that do more than simple  
-> “configuration” of enterprise services. If you are writing, have written, or have access to an aspect that is not  
+> "configuration" of enterprise services. If you are writing, have written, or have access to an aspect that is not  
 > part of the business contract of a particular class (such as a tracing aspect), then the XML-style is better.
 
 I’m not sure about this, xml writing is voluntarily not supported by this blog syntax highlighter, so I’m not pasting any example :-D

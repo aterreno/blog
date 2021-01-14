@@ -9,7 +9,7 @@ redirect_from:
   - /speaking-at-the-italian-agile-day-aaec1ea08cf2
 ---
 
-[This year](http://www.agileday.it/front/2009/italian-agile-day-2009/) I’ve decided to propose an “_experimental_” session: a wall will be available during the conference and the attendees will be asked to put their questions/puzzles about agile, with a special focus on real life projects.
+[This year](http://www.agileday.it/front/2009/italian-agile-day-2009/) I’ve decided to propose an "_experimental_" session: a wall will be available during the conference and the attendees will be asked to put their questions/puzzles about agile, with a special focus on real life projects.
 
 The wall will be handled like a retrospective one, clustering common subjects and people will be asked to vote, then I’ll choose the most interesting and I’ll talk about it .
 

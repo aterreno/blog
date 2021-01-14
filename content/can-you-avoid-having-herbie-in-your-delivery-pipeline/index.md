@@ -14,7 +14,7 @@ _When I began to gather information for this series on operations management, I 
 
 If you did read [the Goal](https://en.wikipedia.org/wiki/The_Goal_%28novel%29) from Eliyahu M. Goldratt you will remember Herbie:
 
-> “The fat kid is the bottleneck! The fat kid is the bottleneck!” And indeed, once Alex realizes this, he sees that the group as a whole can only move as fast as poor little Herbie, the chubby scout who’s clogging things up in the middle of the line.
+> "The fat kid is the bottleneck! The fat kid is the bottleneck!" And indeed, once Alex realizes this, he sees that the group as a whole can only move as fast as poor little Herbie, the chubby scout who’s clogging things up in the middle of the line.
 
 Can you avoid having Herbie at all in your delivery pipeline?
 

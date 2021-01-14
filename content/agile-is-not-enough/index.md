@@ -15,7 +15,7 @@ I think then that sometimes I’ve been agile, especially in a couple of project
 
 However I always had the feeling that wasn’t enough. If we were successful in projects, if our code was readable and nice wasn’t only because of agile.
 
-Lots of people also used (and use) to say that agile works because there are good people and good teams working with agile, that might make sense (I personally think that if you’re “good” you probably choose agile methodologies) but doesn’t really explain properly the “coincidence” of agile-good people-successful projects.
+Lots of people also used (and use) to say that agile works because there are good people and good teams working with agile, that might make sense (I personally think that if you’re "good" you probably choose agile methodologies) but doesn’t really explain properly the "coincidence" of agile-good people-successful projects.
 
 Then I’ve discovered the [Craftsmanship Movement](http://groups.google.com/group/software_craftsmanship/?pli=1), their [manifesto](http://manifesto.softwarecraftsmanship.org/), their discussions on their mailing list, I’ve read the [The Craftsman by Richard Sennet](http://www.amazon.com/Craftsman-Richard-Sennett/dp/0300119097) and everything become clear.
 

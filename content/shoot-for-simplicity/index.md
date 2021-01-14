@@ -9,7 +9,7 @@ redirect_from:
   - /shoot-for-simplicity-53304d2156e5
 ---
 
-I really loved a couple of phrases from the Ted’s blog post “[Agile is treating the symptoms, not the disease](http://blogs.tedneward.com/2009/10/12/quotAgile+Is+Treating+The+Symptoms+Not+The+Diseasequot.aspx)”: the title and the last sentence: “_We are in desperate need of simplicity in this industry_.”.
+I really loved a couple of phrases from the Ted’s blog post "[Agile is treating the symptoms, not the disease](http://blogs.tedneward.com/2009/10/12/quotAgile+Is+Treating+The+Symptoms+Not+The+Diseasequot.aspx)": the title and the last sentence: "_We are in desperate need of simplicity in this industry_.".
 
 **Complexity**
 

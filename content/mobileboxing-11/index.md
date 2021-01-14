@@ -9,9 +9,9 @@ redirect_from:
   - /mobileboxing-1-1-9001378685ee
 ---
 
-I had some downloads and some feedbacks, so why not spending another couple of “boxes” and write some more code?
+I had some downloads and some feedbacks, so why not spending another couple of "boxes" and write some more code?
 
--   In this “release” there’s a simple sound (next step will be to have something like a rooster/alarm clock, that would be great)
+-   In this "release" there’s a simple sound (next step will be to have something like a rooster/alarm clock, that would be great)
 -   There’s a countdown with the minutes, seconds remaining for the current task (work or break)
 -   Screen is still fullsize, someone told me that he doesn’t know what to do with it when it starts, perhaps I’ll add in the future a customized menu with some graphic button at the bottom of the screen
 

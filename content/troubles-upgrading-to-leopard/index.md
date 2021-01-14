@@ -15,4 +15,4 @@ The problem was on the hard disk nodes, so I reckon a disk check before trying t
 
 If you’re reading this post because it’s too late and you’re in troubles, I fixed the system installing Leopard to my firewire disk, installed there DiskWarrior and fixed the disk from there. (credits to [Luca](http://www.lucagrulla.it/) for the pragmatic solution).
 
-(\*) I was sweating blood since the Lacie Backup utility “_forgot_” to backup all my iTunes library! :’-( Now I feel much safer with the [time machine](http://www.apple.com/macosx/features/timemachine.html), great app.
+(\*) I was sweating blood since the Lacie Backup utility "_forgot_" to backup all my iTunes library! :’-( Now I feel much safer with the [time machine](http://www.apple.com/macosx/features/timemachine.html), great app.

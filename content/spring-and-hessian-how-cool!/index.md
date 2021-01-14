@@ -24,7 +24,7 @@ Well the modification to the code (I’ve changed a couple of xml files) took le
 
 You can find the instructions [here](http://static.springframework.org/spring/docs/2.5.x/reference/remoting.html#remoting-caucho-protocols), there’s nothing else I can add to that document, it just works.
 
-Many people says that Java is death or will die soon but what Spring gives “to the masses” is still incredibly valuable and I found always very quick to implement a change in the code or make a big redesign of the codebase.
+Many people says that Java is death or will die soon but what Spring gives "to the masses" is still incredibly valuable and I found always very quick to implement a change in the code or make a big redesign of the codebase.
 
 Lately I’ve been impressed by the [autowiring](http://wheelersoftware.com/articles/spring-autowiring-annotations.html) features and the [java config](http://www.springsource.org/javaconfig) new stuff.
 

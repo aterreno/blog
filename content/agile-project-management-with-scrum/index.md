@@ -29,7 +29,7 @@ Scrum (or at least, this book) preaches few numbers quite strictly. Ken Schwaber
 
 I agree with the number of people in the team, I’m puzzled by all these other numbers. In two projects I’ve experimented 15 days Sprints, with the result of a big overhead in planning and in retrospectives (at least a day spent every two weeks, it’s basically the double of what Ken suggests). In an another project we were having the classic, as in book, 30 days sprint and I found (and I still think) that it’s a too long lapse of time for a team to focus on the delivery, to have the perception of its own velocity.
 
-We are humans and the week starts with the “annoying” Monday and it ends with the “finally” Friday, with in the middle the very productive Wednesday. It might be a coincidence (or a consequence of the quality of the team) but I always found the team where I worked more productive when working in weekly iterations.
+We are humans and the week starts with the "annoying" Monday and it ends with the "finally" Friday, with in the middle the very productive Wednesday. It might be a coincidence (or a consequence of the quality of the team) but I always found the team where I worked more productive when working in weekly iterations.
 
 All those numbers should be then adjusted, divided by four maybe, 2 hours of planning, 1.5 hours retrospective every second iteration.
 
@@ -64,10 +64,10 @@ There’s no deep description in the book of how to do estimations or how to org
 
 A couple of funny quotes
 
-> I believe that the last “simple” project occurred in 1969, when one person from order processing at Sears  
+> I believe that the last "simple" project occurred in 1969, when one person from order processing at Sears  
 > Roebuck asked me to sort some cards and generate a report on an IBM 360/20. Since then, things have only gotten messier.
 
-> “I’ll hire a private detective to find Thomas.”
+> "I’ll hire a private detective to find Thomas."
 
 The second one is a strong example on how important is for the scrum master to remove impediments to the team (Thomas was a developer in holidays that left some undone on the project, compromizing the Sprint success)
 

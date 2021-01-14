@@ -29,59 +29,65 @@ We have a Riemann server running in production, few production applications inst
 **Deploy and ‘release’**  
 Our process at the beginning was poor, a spike and learn approach, hacking the files on the server, day by day our configuration has grown and now we have a separate github project for the configuration, we copy the files over via Scp and we respect the Riemann file structure that the project has on [github](https://github.com/aphyr/riemann), this allow us to change the bash script to start the process, update and track a new version of the jar and keep the configs in the etc folder.
 
-We test new changes locally by starting it with the exact same startup script, often we just copy the files over and reload the configuration by connecting to the Riemann Repl.
+We test new changes locally by starting it with the exact same startup script, often we just copy the files over and reload the configuration by connecting to the Riemann REPL.
 
-\[code language=”bash”\]  
+```bash  
 lein repl :connect 127.0.0.1:5557  
-\[/code\]
+```
 
-\[code language=”clojure”\]  
+```clojure  
 (riemann.bin/reload!)  
-\[/code\]
+```
 
-**Riemann ‘good practises’**
+**Riemann ‘good practices’**
 
 -   Split the configuration in multiple files  
-    \[code language=”clojure”\]  
-    (include “util.clj”)  
-    (include “mailer.clj”)  
-    (include “graphite.clj”)  
-    (include “alerta.clj”)  
-    (include “molads.clj”)
--   \[/code\]
+    ```clojure  
+    (include "util.clj")  
+    (include "mailer.clj")  
+    (include "graphite.clj")  
+    (include "alerta.clj")  
+    (include "molads.clj")
+    ```
 -   The configuration grows and we found beneficial to split in different files, each with a clear name and responsibility. We name them as Clojure files making our life easier within emacs.
--   Carefully define your functions and variables: a team on day changed a variable used by the mailer, it took quite some time to troubleshoot the problem and realise that being Riemann configuration written in Clojure everything can be redefined.
--   Leverage use of [LBQ](http://docs.oracle.com/javase/7/docs/api/java/util/concurrent/ThreadPoolExecutor.html) We are currently using LBQ both on the Riemann to graphite/Alerta side, using the function (async-queue!)\[clojure\]  
-    (let \[index (default :ttl 300 (update-index (index)))  
+-   Carefully define your functions and variables: a team on day changed a variable used by the mailer, it took quite some time to troubleshoot the problem and realize that being Riemann configuration written in Clojure everything can be redefined.
+-   Leverage use of [LBQ](http://docs.oracle.com/javase/7/docs/api/java/util/concurrent/ThreadPoolExecutor.html) We are currently using LBQ both on the Riemann to graphite/Alerta side, using the function 
+
+```clojure
+   (async-queue!)
+    (let index (default :ttl 300 (update-index (index)))  
     alert (async-queue! :alerta {:queue-size 1000} alerta)  
-    graph (async-queue! :graphite {:queue-size 1000} graph)\]  
-    \[/clojure\]
--   and also on the Clojure side, wrapping the event sending within this function:
--   \[code language=”clojure”\]
--   (ns clj-components.utils.bounded-executor  
-    “See: [https://github.com/aphyr/riemann-clojure-client/issues/9#issuecomment-32624706](https://github.com/aphyr/riemann-clojure-client/issues/9#issuecomment-32624706) to understand what’s going on here”  
-    (:import (java.util.concurrent ThreadPoolExecutor TimeUnit LinkedBlockingQueue RejectedExecutionHandler)))
--   (def reject-handler  
-    “Handles a rejection on the bounded executor. i.e. when the LBQ is full.”  
-    (proxy \[RejectedExecutionHandler\] \[\]  
-    (rejectedExecution \[runnable executor\])))
--   (def bounded-executor  
-    “Bounded Execution, current settings are calcuated thinking on the current volumes of Riemann In Production”  
-    (let \[cores (.availableProcessors (Runtime/getRuntime))\]  
+    graph (async-queue! :graphite {:queue-size 1000} graph)  
+```
+
+and also on the Clojure side, wrapping the event sending within this function:
+
+```clojure
+(ns clj-components.utils.bounded-executor  
+    "See: [https://github.com/aphyr/riemann-clojure-client/issues/9#issuecomment-32624706](https://github.com/aphyr/riemann-clojure-client/issues/9#issuecomment-32624706) to understand what’s going on here"  
+    (:import (java.util.concurrent ThreadPoolExecutor TimeUnit  LinkedBlockingQueue RejectedExecutionHandler)))
+(def reject-handler  
+    "Handles a rejection on the bounded executor. i.e. when the LBQ is full."  
+    (proxy [RejectedExecutionHandler] []  
+    (rejectedExecution [runnable executor])))
+(def bounded-executor  
+    "Bounded Execution, current settings are calcuated thinking on the current volumes of Riemann In Production"  
+    (let [cores (.availableProcessors (Runtime/getRuntime))]  
     (ThreadPoolExecutor. 1 cores 5 TimeUnit/SECONDS (LinkedBlockingQueue. 250) reject-handler)))
--   (defn run-bounded \[f\]  
-    “Exectutes f in a bounded executor”  
-    (let \[executor bounded-executor\]  
+(defn run-bounded [f]  
+    "Exectutes f in a bounded executor"  
+    (let [executor bounded-executor]  
     (.execute executor (Thread. f))))
--   \[/code\]
+   ```
+
 -   For a deep explaination on why using LBQ follow the discussion on this issue on [github](https://github.com/aphyr/riemann-clojure-client/issues/9#issuecomment-32624706)
 -   We had problems with TCP without LBQ, we switched to UDP but then noticed that the java client used by the Riemann client to send events swallows exceptions when the connection is closed, until this bug will be fixed, I’d recommend using TCP with LBQs as there’s no way to recognise a disconnected UDP client. More on this on the same github issue, just down on the same [thread](https://github.com/aphyr/riemann-clojure-client/issues/9#issuecomment-32971989).
 -   Don’t use it as a datastore: a silly mistake: keeping data too long on the index will lead to poor performance, Riemann is designed to process events which have a short life and little state, keeping your events for more than few minutes will lead to obvious performance problems. Make sure you set a reasonable default ttl on the events in the index.
 -   Don’t query the index too often This is the last finding: we were trying to set a flag for maintenance mode when deploying applications, to stop events propagation, however we were querying the index all the times to check if Riemann was set in maintenance mode for a certain application, this was growing somehow the heap allocation day by day. As it’s a recent finding/topic you might find some interesting comments in this github [issue](https://github.com/aphyr/riemann/issues/312).
 -   Leverage the java toolset: we configured Riemann to run with NewRelic, Jmx and Yourkit, without these tools it would have been really hard to find out where the problems where, the java command would be enriched with something like:  
-    \[code language=”bash”\]  
-    JMX\_OPTS=” -Djava.rmi.server.hostname=10.250.76.85 -Dcom.sun.management.jmxremote.ssl=false -Dcom.sun.management.jmxremote.authenticate=false -Dcom.sun.management.jmxremote.port=9100 -Dcom.sun.management.jmxremote”  
-    AGENT\_OPTS=”-javaagent:/opt/molsfw/newrelic/newrelic.jar -Dnewrelic.environment=production”  
-    PROFILER\_OPTS=”-agentpath:/opt/molsfw/yourkit/libyjpagent.so”  
-    \[/code\]
+    ```bash
+    JMX\_OPTS=" -Djava.rmi.server.hostname=10.250.76.85 -Dcom.sun.management.jmxremote.ssl=false -Dcom.sun.management.jmxremote.authenticate=false -Dcom.sun.management.jmxremote.port=9100 -Dcom.sun.management.jmxremote"  
+    AGENT\_OPTS="-javaagent:/opt/molsfw/newrelic/newrelic.jar -Dnewrelic.environment=production"  
+    PROFILER\_OPTS="-agentpath:/opt/molsfw/yourkit/libyjpagent.so"  
+    ```
 -   **In conclusion** I’ve been very positevely impressed by the tool and by the support and received, the DSL might be a little hard to remember if you don’t play with the code too often but the power of the tool is impressive. Reading the Guardian’s [Riemann config](https://github.com/guardian/riemann-config) has been a great source of inspiration and I encourage whoever can to share their Riemann configuration.

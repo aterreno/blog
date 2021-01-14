@@ -16,7 +16,7 @@ I was trying to avoid to call bat files from ant. I hate that. First cos are pla
 
 There are 2 correct responses in this thread:
 
-> I had the same problem last month, and struggled for a while. I found the point is, we have to use profilesAppSrv01binws\_ant.bat to call ant, instead of calling ant directly. By using ws\_ant.bat, it will initialize some env variables, and using IBM’s JVM to do the job. Another thing is, in build script, I need to define property “wasinstall” as websphere install home. This property will be used as ejb deploy task’s attribute “wasHome”’s value.
+> I had the same problem last month, and struggled for a while. I found the point is, we have to use profilesAppSrv01binws\_ant.bat to call ant, instead of calling ant directly. By using ws\_ant.bat, it will initialize some env variables, and using IBM’s JVM to do the job. Another thing is, in build script, I need to define property "wasinstall" as websphere install home. This property will be used as ejb deploy task’s attribute "wasHome"’s value.
 
 The first is this, so I’ll roll back my changes. The .bat file is plenty of SET blabla=blabla/bla so I have no choice.
 

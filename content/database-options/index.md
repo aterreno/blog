@@ -16,7 +16,7 @@ I’ve been an ignorant for years, I’ve used hibernate, I’ve listened to DBA
 -   [Column Oriented Databases](http://en.wikipedia.org/wiki/Column-oriented_DBMS)
 -   [Document Oriented Databases](http://en.wikipedia.org/wiki/Document-oriented_database)
 
-[Hadoop](http://hadoop.apache.org/) and [MonetDB](http://monetdb.cwi.nl/%20) are two “popular” Column Oriented Databases, the first one is modelled on the [Google BigTable whitepaper](http://labs.google.com/papers/bigtable.html), the second one claims to be the fastest opensource RDMS, I found throught its website a link to the [Transaction Processing Performance Council](http://www.tpc.org/) page.
+[Hadoop](http://hadoop.apache.org/) and [MonetDB](http://monetdb.cwi.nl/%20) are two "popular" Column Oriented Databases, the first one is modelled on the [Google BigTable whitepaper](http://labs.google.com/papers/bigtable.html), the second one claims to be the fastest opensource RDMS, I found throught its website a link to the [Transaction Processing Performance Council](http://www.tpc.org/) page.
 
 With not that much surprise on almost all the test of the TCP Oracle performs quite badly!
 

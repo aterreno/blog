@@ -19,7 +19,7 @@ First of all, the context: I am a hands-on CTO of a pre-seed round, pre-revenue 
 
 **Use the tools that you already master:** there’s no time to learn, you might want to optimise who you hire depending on tech in order to get better/more candidates but you need to master that tech, inside out, there is absolutely no time to learn something new at this stage or even worse, to waste time troubleshooting some serious issues because you (or your hires) don’t know the tech inside out.
 
-**Keep Work In Progress small**: as small as possible, focus focus focus on one single thing, achieve that, move on. Keeping WIP small on a ‘standard’ project is a good practice, but in an early startup, with limited resources, and limited funding you will be constrained by something way heavier than just “good lean principles”.
+**Keep Work In Progress small**: as small as possible, focus focus focus on one single thing, achieve that, move on. Keeping WIP small on a ‘standard’ project is a good practice, but in an early startup, with limited resources, and limited funding you will be constrained by something way heavier than just "good lean principles".
 
 **Tech doesn’t matter:** Tech is actually the least important thing in the whole chain! Users and Product are way more important. As techies we often see the world from our own techie eye, there’s a whole ecosystem which is way more important, your users won’t care about the quality of your code nor how many tests you wrote, even less which tech stack or latest framework you are using: they care about a good user experience and a product that is useful and potentially solves one of their problems.
 

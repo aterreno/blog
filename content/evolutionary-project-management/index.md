@@ -48,7 +48,7 @@ Full doc, with description of every single point [here](http://www.xs4all.nl/~nr
 
 Worth having a look to the [website](http://www.gilb.com/) of the creators of the document above.
 
-The only thing (marketing probably) I don’t really like is the sentence “Evo makes project failure structurally impossible!”
+The only thing (marketing probably) I don’t really like is the sentence "Evo makes project failure structurally impossible!"
 
 That’s structurally impossible!  
 Evo fails, Agile fails… Just slightly less than Waterfall!
