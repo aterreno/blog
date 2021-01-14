@@ -9,10 +9,10 @@
     "url": "git+https://github.com/aterreno/blog.git"
   },
   "dependencies": {
-    "gatsby": "^2.13.13",
-    "gatsby-theme-medium-to-own-blog": "^0.2.14",
-    "react": "^16.8.6",
-    "react-dom": "^16.8.6"
+    "gatsby": "^2.30.2",
+    "gatsby-theme-medium-to-own-blog": "^0.2.15",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
   },
   "devDependencies": {
     "lighthousebot": "git+https://github.com/GoogleChromeLabs/lighthousebot.git",
