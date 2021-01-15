@@ -4,7 +4,7 @@ description: ""
 date: "2008-06-20T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/anti-agile-words-weekly-81745123a773
+canonical_link: https://javame.netlify.app//anti-agile-words-weekly-81745123a773
 redirect_from:
   - /anti-agile-words-weekly-81745123a773
 ---
@@ -22,7 +22,7 @@ A weekly release? Why not releasing as soon as you have working software, why br
 
 I worked in a project where there was the bad habit of a weekly commit (!), on Friday late afternoon, to close the week.
 
-I worked in a project where there was a weekly remote standup meeting, nothing more useless and boring: people talking at the phone and no one listening.
+I worked in a project where there was a weekly remote stand up meeting, nothing more useless and boring: people talking at the phone and no one listening.
 
 Weekly doesn’t sounds good for nothing, not for iterations, not for releases, not for meetings.
 

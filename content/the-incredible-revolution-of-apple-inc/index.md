@@ -4,7 +4,7 @@ description: ""
 date: "2007-01-10T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/the-incredible-revolution-of-apple-inc-354762dd34a6
+canonical_link: https://javame.netlify.app//the-incredible-revolution-of-apple-inc-354762dd34a6
 redirect_from:
   - /the-incredible-revolution-of-apple-inc-354762dd34a6
 ---

@@ -4,7 +4,7 @@ description: ""
 date: "2006-09-25T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/a-good-start-8165705d889f
+canonical_link: https://javame.netlify.app//a-good-start-8165705d889f
 redirect_from:
   - /a-good-start-8165705d889f
 ---

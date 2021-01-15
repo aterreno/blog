@@ -4,7 +4,7 @@ description: ""
 date: "2009-04-21T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/tibco-gi-no-thanks-ebd43b4ae61c
+canonical_link: https://javame.netlify.app//tibco-gi-no-thanks-ebd43b4ae61c
 redirect_from:
   - /tibco-gi-no-thanks-ebd43b4ae61c
 ---

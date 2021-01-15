@@ -4,7 +4,7 @@ description: ""
 date: "2006-10-25T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/ruby-not-so-bad-5d9854d0b25b
+canonical_link: https://javame.netlify.app//ruby-not-so-bad-5d9854d0b25b
 redirect_from:
   - /ruby-not-so-bad-5d9854d0b25b
 ---

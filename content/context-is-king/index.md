@@ -4,7 +4,7 @@ description: ""
 date: "2010-10-31T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/context-is-king-822a928df708
+canonical_link: https://javame.netlify.app//context-is-king-822a928df708
 redirect_from:
   - /context-is-king-822a928df708
 ---
@@ -15,7 +15,7 @@ So I thought about collecting all the feedbacks here in this post to better expl
 
 There are some contexts were that "methodology" I did explain, let’s call it process 0.01%, won’t clearly work.
 
-Now, I still don’t fully understand why, but it’s a fact. (many times is caused by politics and fear in dysfunctional organizations)
+Now, I still don’t fully understand why, but it’s a fact. (many times is caused by politics and fear in dysfunctional organisations)
 
 There are enterprise contexts where there’s need of tools to keep the project on track from a quality and delivery perspective. It’s still questionable that the tool will fix the problem.   
 I think that spending a month training/staffing the team most of the times will pay back more than installing (buying) CI server, tracking tool, estimating, planning, etc.

@@ -4,7 +4,7 @@ description: "In the last few years, I have to admit, I barely interviewed, than
 date: "2019-04-01T08:39:31.691Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/experiences-as-an-interviewee-28e16131f31a
+canonical_link: https://javame.netlify.app//experiences-as-an-interviewee-28e16131f31a
 redirect_from:
   - /experiences-as-an-interviewee-28e16131f31a
 ---
@@ -24,7 +24,7 @@ As the interviewer I always followed the classic approach (which I’ve learnt a
 As a candidate I’ve realised a few things:
 
 -   **The code test can give more false negatives than benefits**, in my case I found myself unmotivated (so the ‘sell’ phase wasn’t good enough), tired (I had to do 3 code tests in 3 days on top of usual work, personal, family duties), which ended up in failing a few interviews.   
-    I might not be the best coder in town but I am still very hands-on, I co-wrote a whole platform in the last couple of years, so those tests didn’t really work. I also found especially dull the tests using libraries or with long readmes or hard to solve problems. If the objective is this person can code an in a clean readable manner, then what is the point of using libraries?
+    I might not be the best coder in town but I am still very hands-on, I co-wrote a whole platform in the last couple of years, so those tests didn’t really work. I also found especially dull the tests using libraries or with long READMEs or hard to solve problems. If the objective is this person can code an in a clean readable manner, then what is the point of using libraries?
 -   **The best way to understand a company is to breathe the air of the current employees**, work together on some real problem, spend a day, including lunch, coffee breaks with existing teams, meet the founders. Only after a candidate should be introduced to the next level. Exchanging way of working, knowing for real (not hearing the polished version at conferences or on blog posts) how a company works it’s a fantastic exchange of knowledge, an exercise that shouldn’t be just limited to the job hunting days, but something to do every so often
 -   **Phone calls, emails: you are doing it all wrong**, timing is an issue, but there’s plenty of software to do either one-way-interviews or remote face to face interviews.
 -   **Interviews are great to understand yourself**, who you are, where you are and where you want to be.

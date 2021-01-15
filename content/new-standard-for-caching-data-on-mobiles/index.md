@@ -4,7 +4,7 @@ description: ""
 date: "2006-05-06T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/new-standard-for-caching-data-on-mobiles-2cc191ee9b81
+canonical_link: https://javame.netlify.app//new-standard-for-caching-data-on-mobiles-2cc191ee9b81
 redirect_from:
   - /new-standard-for-caching-data-on-mobiles-2cc191ee9b81
 ---

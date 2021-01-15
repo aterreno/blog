@@ -4,7 +4,7 @@ description: ""
 date: "2007-09-02T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/a-lovely-software-for-gtd-22d59aec9f2e
+canonical_link: https://javame.netlify.app//a-lovely-software-for-gtd-22d59aec9f2e
 redirect_from:
   - /a-lovely-software-for-gtd-22d59aec9f2e
 ---

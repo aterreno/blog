@@ -4,7 +4,7 @@ description: ""
 date: "2009-07-26T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/choose-your-next-car-fiat-duna-toyota-prius-or-ferrari-f60-a95f522b6537
+canonical_link: https://javame.netlify.app//choose-your-next-car-fiat-duna-toyota-prius-or-ferrari-f60-a95f522b6537
 redirect_from:
   - /choose-your-next-car-fiat-duna-toyota-prius-or-ferrari-f60-a95f522b6537
 ---

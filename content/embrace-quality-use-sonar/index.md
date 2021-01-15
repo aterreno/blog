@@ -4,7 +4,7 @@ description: ""
 date: "2009-04-08T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/embrace-quality-use-sonar-2bd0a12daa81
+canonical_link: https://javame.netlify.app//embrace-quality-use-sonar-2bd0a12daa81
 redirect_from:
   - /embrace-quality-use-sonar-2bd0a12daa81
 ---
@@ -15,7 +15,7 @@ I’ve been using Sonar for the last couple of months and I’m positively impre
 
 It’s very easy and quick to setup (I use Sonar from an [Hudson](https://hudson.dev.java.net/%20) build, in a Maven 2 project) and it offers a very clear and attractive overview of the project code.
 
-The time machine feature tracks the metrics of the project, enabling the team to track progress and improvments.
+The time machine feature tracks the metrics of the project, enabling the team to track progress and improvements.
 
 It’s a separate server, so your build doesn’t slow down to produce the reports, Maven launches it transparently.
 

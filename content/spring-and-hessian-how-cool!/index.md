@@ -4,7 +4,7 @@ description: ""
 date: "2009-03-31T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/spring-hessian-how-cool-b45af3d22f24
+canonical_link: https://javame.netlify.app//spring-hessian-how-cool-b45af3d22f24
 redirect_from:
   - /spring-hessian-how-cool-b45af3d22f24
 ---

@@ -4,7 +4,7 @@ description: ""
 date: "2010-03-18T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/i-hate-meetings-they-make-me-sick-dadc285a74f2
+canonical_link: https://javame.netlify.app//i-hate-meetings-they-make-me-sick-dadc285a74f2
 redirect_from:
   - /i-hate-meetings-they-make-me-sick-dadc285a74f2
 ---

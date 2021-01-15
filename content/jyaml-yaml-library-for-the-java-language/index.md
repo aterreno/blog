@@ -4,7 +4,7 @@ description: ""
 date: "2006-10-19T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/jyaml-yaml-library-for-the-java-language-48064beda1a4
+canonical_link: https://javame.netlify.app//jyaml-yaml-library-for-the-java-language-48064beda1a4
 redirect_from:
   - /jyaml-yaml-library-for-the-java-language-48064beda1a4
 ---

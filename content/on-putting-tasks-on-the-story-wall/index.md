@@ -4,7 +4,7 @@ description: ""
 date: "2010-03-17T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/on-putting-tasks-on-the-story-wall-2d328b68289a
+canonical_link: https://javame.netlify.app//on-putting-tasks-on-the-story-wall-2d328b68289a
 redirect_from:
   - /on-putting-tasks-on-the-story-wall-2d328b68289a
 ---

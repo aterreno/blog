@@ -4,7 +4,7 @@ description: ""
 date: "2010-04-01T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/practices-of-the-proper-christian-programmer-e0eaaaefddd5
+canonical_link: https://javame.netlify.app//practices-of-the-proper-christian-programmer-e0eaaaefddd5
 redirect_from:
   - /practices-of-the-proper-christian-programmer-e0eaaaefddd5
 ---

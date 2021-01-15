@@ -4,7 +4,7 @@ description: "On my last project at Equal Experts I came up with the idea of con
 date: "2017-06-23T13:58:04.199Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/the-practice-of-continuous-testing-95a37f77ffd8
+canonical_link: https://javame.netlify.app//the-practice-of-continuous-testing-95a37f77ffd8
 redirect_from:
   - /the-practice-of-continuous-testing-95a37f77ffd8
 ---

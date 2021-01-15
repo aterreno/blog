@@ -4,7 +4,7 @@ description: "If you spent any time in an early stage startup you know what itâ€
 date: "2019-02-06T12:54:25.617Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/startup-pre-series-a-tech-choices-you-cant-compromise-on-a499a75f3f06
+canonical_link: https://javame.netlify.app//startup-pre-series-a-tech-choices-you-cant-compromise-on-a499a75f3f06
 redirect_from:
   - /startup-pre-series-a-tech-choices-you-cant-compromise-on-a499a75f3f06
 ---

@@ -4,7 +4,7 @@ description: "I’ve started at Labrador about a month ago and now it’s time t
 date: "2017-08-10T11:49:06.089Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/hiring-at-labrador-4571b014439d
+canonical_link: https://javame.netlify.app//hiring-at-labrador-4571b014439d
 redirect_from:
   - /hiring-at-labrador-4571b014439d
 ---

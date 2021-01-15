@@ -4,7 +4,7 @@ description: ""
 date: "2007-01-23T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/is-ror-good-for-the-enterprise-f903e8077461
+canonical_link: https://javame.netlify.app//is-ror-good-for-the-enterprise-f903e8077461
 redirect_from:
   - /is-ror-good-for-the-enterprise-f903e8077461
 ---

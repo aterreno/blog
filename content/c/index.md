@@ -4,7 +4,7 @@ description: ""
 date: "2007-05-23T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/c-96d31ff5ae7b
+canonical_link: https://javame.netlify.app//c-96d31ff5ae7b
 redirect_from:
   - /c-96d31ff5ae7b
 ---

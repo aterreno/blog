@@ -4,7 +4,7 @@ description: "This is the story of how I ended up with the triathlon bug."
 date: "2018-07-09T14:23:40.875Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/if-i-can-do-it-b3b5ecc34de1
+canonical_link: https://javame.netlify.app//if-i-can-do-it-b3b5ecc34de1
 redirect_from:
   - /if-i-can-do-it-b3b5ecc34de1
 ---

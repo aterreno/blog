@@ -4,7 +4,7 @@ description: ""
 date: "2006-10-26T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/ruby-rails-web2-0-%C3%A2-blog-archive-%C3%A2-sometimes-less-is-more-510000c56a8a
+canonical_link: https://javame.netlify.app//ruby-rails-web2-0-%C3%A2-blog-archive-%C3%A2-sometimes-less-is-more-510000c56a8a
 redirect_from:
   - /ruby-rails-web2-0-â-blog-archive-â-sometimes-less-is-more-510000c56a8a
 ---

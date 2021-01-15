@@ -4,7 +4,7 @@ description: ""
 date: "2010-12-06T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/the-way-we-design-our-software-these-days-d3aa6179c02e
+canonical_link: https://javame.netlify.app//the-way-we-design-our-software-these-days-d3aa6179c02e
 redirect_from:
   - /the-way-we-design-our-software-these-days-d3aa6179c02e
 ---

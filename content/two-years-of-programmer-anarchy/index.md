@@ -4,7 +4,7 @@ description: ""
 date: "2012-08-20T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/two-years-of-programmer-anarchy-7f8a85ec4717
+canonical_link: https://javame.netlify.app//two-years-of-programmer-anarchy-7f8a85ec4717
 redirect_from:
   - /two-years-of-programmer-anarchy-7f8a85ec4717
 ---

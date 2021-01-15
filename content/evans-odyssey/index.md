@@ -4,7 +4,7 @@ description: "I thought about sharing an ‘interesting’ adventure I had with 
 date: "2017-07-03T11:30:15.317Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/evans-odyssey-eda0ad87bcbc
+canonical_link: https://javame.netlify.app//evans-odyssey-eda0ad87bcbc
 redirect_from:
   - /evans-odyssey-eda0ad87bcbc
 ---

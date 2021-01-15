@@ -4,7 +4,7 @@ description: ""
 date: "2009-04-17T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/spring-facts-c0b9cd28ad5e
+canonical_link: https://javame.netlify.app//spring-facts-c0b9cd28ad5e
 redirect_from:
   - /spring-facts-c0b9cd28ad5e
 ---

@@ -4,7 +4,7 @@ description: ""
 date: "2008-06-17T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/fan-programming-language-2074742c41c5
+canonical_link: https://javame.netlify.app//fan-programming-language-2074742c41c5
 redirect_from:
   - /fan-programming-language-2074742c41c5
 ---
@@ -12,7 +12,7 @@ redirect_from:
 I’m just having a look to Fan and it seems quite a cool language, soon more posts on this.
 
 [Fan Programming Language](http://www.fandev.org/): "Portability  
-Write code portable to both the Java VM and the .NET CLR.
+Write code portable to both the Java VIM and the .NET CLR.
 
 **Familiar Syntax**  
 Java and C# programmers will feel at home with Fan’s curly brace syntax.
@@ -36,7 +36,7 @@ Interfaces but with implementation.
 Functions and closures are baked in.
 
 **Serialization**  
-Built-in ‘JSON like’ serialization syntax makes Fan ideal for declarative programming too.
+Built-in ‘JSON like’ serialisation syntax makes Fan ideal for declarative programming too.
 
 **REST**  
 Model data with a unified namespace of resources identified with URIs.

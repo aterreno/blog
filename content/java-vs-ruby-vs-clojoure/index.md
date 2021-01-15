@@ -4,7 +4,7 @@ description: ""
 date: "2010-08-06T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/java-vs-ruby-vs-clojoure-77998aa7395
+canonical_link: https://javame.netlify.app//java-vs-ruby-vs-clojoure-77998aa7395
 redirect_from:
   - /java-vs-ruby-vs-clojoure-77998aa7395
 ---

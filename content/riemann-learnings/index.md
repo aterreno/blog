@@ -4,7 +4,7 @@ description: ""
 date: "2014-01-27T12:25:01.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/riemann-learnings-29466513eb5f
+canonical_link: https://javame.netlify.app//riemann-learnings-29466513eb5f
 redirect_from:
   - /riemann-learnings-29466513eb5f
 ---

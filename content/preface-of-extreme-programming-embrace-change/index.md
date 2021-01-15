@@ -4,7 +4,7 @@ description: ""
 date: "2006-09-14T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/preface-of-extreme-programming-embrace-change-7c2a61e96925
+canonical_link: https://javame.netlify.app//preface-of-extreme-programming-embrace-change-7c2a61e96925
 redirect_from:
   - /preface-of-extreme-programming-embrace-change-7c2a61e96925
 ---

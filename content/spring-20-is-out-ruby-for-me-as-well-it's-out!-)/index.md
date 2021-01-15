@@ -4,7 +4,7 @@ description: ""
 date: "2006-10-05T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/spring-2-0-is-out-ruby-for-me-as-well-its-out-a42c74e58dcc
+canonical_link: https://javame.netlify.app//spring-2-0-is-out-ruby-for-me-as-well-its-out-a42c74e58dcc
 redirect_from:
   - /spring-2-0-is-out-ruby-for-me-as-well-its-out-a42c74e58dcc
 ---

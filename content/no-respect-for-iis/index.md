@@ -4,7 +4,7 @@ description: ""
 date: "2010-03-28T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/no-respect-for-iis-4b3857741ace
+canonical_link: https://javame.netlify.app//no-respect-for-iis-4b3857741ace
 redirect_from:
   - /no-respect-for-iis-4b3857741ace
 ---

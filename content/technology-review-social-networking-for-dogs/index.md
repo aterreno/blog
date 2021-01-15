@@ -4,7 +4,7 @@ description: ""
 date: "2007-05-03T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/technology-review-social-networking-for-dogs-79c8fb149317
+canonical_link: https://javame.netlify.app//technology-review-social-networking-for-dogs-79c8fb149317
 redirect_from:
   - /technology-review-social-networking-for-dogs-79c8fb149317
 ---

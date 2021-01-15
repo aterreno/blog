@@ -4,7 +4,7 @@ description: ""
 date: "2010-03-16T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/learn-practises-and-learn-how-to-live-without-them-142ad8861252
+canonical_link: https://javame.netlify.app//learn-practises-and-learn-how-to-live-without-them-142ad8861252
 redirect_from:
   - /learn-practises-and-learn-how-to-live-without-them-142ad8861252
 ---

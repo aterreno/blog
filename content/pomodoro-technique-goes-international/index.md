@@ -4,7 +4,7 @@ description: ""
 date: "2007-11-25T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/pomodoro-technique-goes-international-d92a442d7113
+canonical_link: https://javame.netlify.app//pomodoro-technique-goes-international-d92a442d7113
 redirect_from:
   - /pomodoro-technique-goes-international-d92a442d7113
 ---

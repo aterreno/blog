@@ -4,7 +4,7 @@ description: ""
 date: "2007-01-24T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/lagom-learning-swedish-93a130033427
+canonical_link: https://javame.netlify.app//lagom-learning-swedish-93a130033427
 redirect_from:
   - /lagom-learning-swedish-93a130033427
 ---

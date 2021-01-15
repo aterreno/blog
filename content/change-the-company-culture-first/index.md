@@ -4,14 +4,14 @@ description: ""
 date: "2010-05-25T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/change-the-company-culture-first-c5f9fbe14e89
+canonical_link: https://javame.netlify.app//change-the-company-culture-first-c5f9fbe14e89
 redirect_from:
   - /change-the-company-culture-first-c5f9fbe14e89
 ---
 
 I’ve been involved in quite some agile consulting gigs in my work life.
 
-There’s one lesson I want to share: if you want to change an organization you have to change their company culture first.
+There’s one lesson I want to share: if you want to change an organisation you have to change their company culture first.
 
 If you are trying to employ a consultancy firm try to get ready your people to start with, avoid wasting money making sure that your employees are ready to embrace the change.
 

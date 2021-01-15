@@ -4,7 +4,7 @@ description: ""
 date: "2013-09-01T10:38:33.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/my-first-six-months-with-clojure-f853b467eba6
+canonical_link: https://javame.netlify.app//my-first-six-months-with-clojure-f853b467eba6
 redirect_from:
   - /my-first-six-months-with-clojure-f853b467eba6
 ---

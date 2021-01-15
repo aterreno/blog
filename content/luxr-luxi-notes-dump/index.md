@@ -4,7 +4,7 @@ description: ""
 date: "2011-07-24T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/luxr-luxi-notes-dump-73aa1d7a42b3
+canonical_link: https://javame.netlify.app//luxr-luxi-notes-dump-73aa1d7a42b3
 redirect_from:
   - /luxr-luxi-notes-dump-73aa1d7a42b3
 ---

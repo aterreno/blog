@@ -4,7 +4,7 @@ description: ""
 date: "2007-09-09T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/some-stuff-you-might-try-in-your-team-7e71e2b1b854
+canonical_link: https://javame.netlify.app//some-stuff-you-might-try-in-your-team-7e71e2b1b854
 redirect_from:
   - /some-stuff-you-might-try-in-your-team-7e71e2b1b854
 ---

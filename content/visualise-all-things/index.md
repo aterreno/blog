@@ -4,7 +4,7 @@ description: "At Labrador, we love DynamoDB and we also love its Streams, no dou
 date: "2018-06-05T20:18:27.691Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/visualise-all-things-82adc32bcf64
+canonical_link: https://javame.netlify.app//visualise-all-things-82adc32bcf64
 redirect_from:
   - /visualise-all-things-82adc32bcf64
 ---

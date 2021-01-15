@@ -4,12 +4,12 @@ description: "Finally, I’ve done it, I am the elite of social media, after del
 date: "2017-12-19T19:01:02.604Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/on-closing-my-facebook-account-499017ee877d
+canonical_link: https://javame.netlify.app//on-closing-my-facebook-account-499017ee877d
 redirect_from:
   - /on-closing-my-facebook-account-499017ee877d
 ---
 
-Finally, I’ve done it, I am the elite of social media, [after deleting all my content about a month](https://medium.com/@javame/walking-off-from-facebook-b4e7d4a6da97) ago I’ve now deleted my account.  
+Finally, I’ve done it, I am the elite of social media, [after deleting all my content about a month](https://javame.netlify.app//walking-off-from-facebook-b4e7d4a6da97) ago I’ve now deleted my account.  
    
 **What did I learn in my facebook-less month?**
 

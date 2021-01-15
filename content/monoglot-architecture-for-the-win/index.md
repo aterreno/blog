@@ -4,7 +4,7 @@ description: ""
 date: "2010-03-22T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/monoglot-architecture-for-the-win-86bc010c61fb
+canonical_link: https://javame.netlify.app//monoglot-architecture-for-the-win-86bc010c61fb
 redirect_from:
   - /monoglot-architecture-for-the-win-86bc010c61fb
 ---

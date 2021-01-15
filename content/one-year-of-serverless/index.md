@@ -4,7 +4,7 @@ description: "I’ve joined Labrador exactly a year ago, time flies when you are
 date: "2018-07-10T10:25:12.687Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/one-year-of-serverless-61bfc475b23b
+canonical_link: https://javame.netlify.app//one-year-of-serverless-61bfc475b23b
 redirect_from:
   - /one-year-of-serverless-61bfc475b23b
 ---
@@ -13,7 +13,7 @@ I’ve joined [Labrador](https://www.thelabrador.co.uk/) exactly a year ago, tim
 
 #### What did we build in a year?
 
-[A Real-time Data Aggregation with DynamoDB](https://medium.com/@javame/real-time-aggregation-with-dynamodb-1d4c525a4154), we killed [WordPress](https://medium.com/@javame/a-serverless-alternative-to-wordpress-b55c628c71e2), and we [Visualise Everything we do or what our users](https://medium.com/@javame/visualise-all-things-82adc32bcf64) do with Kibana… We also built a few internal and external frontends with React.JS and some other little things… It’s too much to list it all, but I’ll blog soon about them.
+[A Real-time Data Aggregation with DynamoDB](https://javame.netlify.app//real-time-aggregation-with-dynamodb-1d4c525a4154), we killed [WordPress](https://javame.netlify.app//a-serverless-alternative-to-wordpress-b55c628c71e2), and we [Visualise Everything we do or what our users](https://javame.netlify.app//visualise-all-things-82adc32bcf64) do with Kibana… We also built a few internal and external frontends with React.JS and some other little things… It’s too much to list it all, but I’ll blog soon about them.
 
 #### Would I do it again?
 
@@ -27,7 +27,7 @@ As far as I can remember, the only ‘maintenance’ on our ‘oldest’ Lambdas
 
 The granularity of the Lambdas is key too: I would struggle to write such little code and run it on a microservices, perhaps I never worked in a project where Kubernetes was adopted in the right way, or perhaps it was too early, but running a company without having to worry about the servers it’s just brilliant, and a massive relief.
 
-I am glad we ended up using Node: the intrinsic event-driven nature of the language, the beauty of ES6 helped us build an event-driven architecture where [everything is JS](https://medium.com/@javame/7-years-from-the-monoglot-blog-post-f13d9e776b14).
+I am glad we ended up using Node: the intrinsic event-driven nature of the language, the beauty of ES6 helped us build an event-driven architecture where [everything is JS](https://javame.netlify.app//7-years-from-the-monoglot-blog-post-f13d9e776b14).
 
 According to [IOPipe](https://www.iopipe.com/) we have 58 functions running in prod, I love these sort of screenshots, where are we going to be in 3,6,9 months? How many more functions?
 

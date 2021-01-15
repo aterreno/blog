@@ -4,7 +4,7 @@ description: ""
 date: "2007-04-12T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/the-fit-stuff-5e4944736c81
+canonical_link: https://javame.netlify.app//the-fit-stuff-5e4944736c81
 redirect_from:
   - /the-fit-stuff-5e4944736c81
 ---

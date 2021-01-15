@@ -4,7 +4,7 @@ description: ""
 date: "2006-10-04T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/italian-agile-day-uncovering-better-ways-of-developing-software-12a75931528e
+canonical_link: https://javame.netlify.app//italian-agile-day-uncovering-better-ways-of-developing-software-12a75931528e
 redirect_from:
   - /italian-agile-day-uncovering-better-ways-of-developing-software-12a75931528e
 ---

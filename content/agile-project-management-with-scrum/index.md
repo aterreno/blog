@@ -4,7 +4,7 @@ description: ""
 date: "2009-05-06T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/agile-project-management-with-scrum-861f5d13a401
+canonical_link: https://javame.netlify.app//agile-project-management-with-scrum-861f5d13a401
 redirect_from:
   - /agile-project-management-with-scrum-861f5d13a401
 ---
@@ -37,7 +37,7 @@ However Scrum is agile and Ken writes also:
 
 > Scrum relies on empirical process control, which in turn is based on frequent inspections and adaptation.
 
-> The Team has to learn to manage itself, to constantly adjust its methods in order to optimize its chances of success.
+> The Team has to learn to manage itself, to constantly adjust its methods in order to optimise its chances of success.
 
 So at the end if you find your team not focused on a 30 days Sprint you might want to try to cut down the size, but keep in mind that you should cut down the time boxed time dedicated to planning, sprint review and process improvement.
 
@@ -58,7 +58,7 @@ To get the best of both world just use them together (Scrum alone is rare, espec
 
 **Missing parts**
 
-There’s no deep description in the book of how to do estimations or how to organize your team wall, actually there’s no mention of the wall at all. I guess it’s all left to other comprenshive books on the subject, like the Mike Cohn ones.
+There’s no deep description in the book of how to do estimations or how to organise your team wall, actually there’s no mention of the wall at all. I guess it’s all left to other comprehensive books on the subject, like the Mike Cohn ones.
 
 **Funny bits**
 
@@ -69,24 +69,24 @@ A couple of funny quotes
 
 > "I’ll hire a private detective to find Thomas."
 
-The second one is a strong example on how important is for the scrum master to remove impediments to the team (Thomas was a developer in holidays that left some undone on the project, compromizing the Sprint success)
+The second one is a strong example on how important is for the scrum master to remove impediments to the team (Thomas was a developer in holidays that left some undone on the project, compromising the Sprint success)
 
-**Organization fit or Organization Transformation**
+**Organisation fit or Organisation Transformation**
 
 Some companies are more ready to Scrum, some companies will struggle to change, another two lines from the book:
 
 > Scrum can’t be learned overnight.  
-> To create visibility in these instances, the ScrumMaster had to adapt Scrum to the organization.
+> To create visibility in these instances, the Scrum Master had to adapt Scrum to the organisation.
 
-Taking a Scrum Certification after years of Waterfall process will not transform you in a Scrum Master, and sometimes some Organization Trasformation has to be performed in the company before starting the project.
+Taking a Scrum Certification after years of Waterfall process will not transform you in a Scrum Master, and sometimes some Organisation Transformation has to be performed in the company before starting the project.
 
-Scrum is a great way to deal with Agile Managment but I’m sure that the two biggest challenges and reasons of failures of Scrum Project are really the two mentioned above.
+Scrum is a great way to deal with Agile Management but I’m sure that the two biggest challenges and reasons of failures of Scrum Project are really the two mentioned above.
 
 **Common Language**
 
 > They needed to learn to talk to each other in a common language.
 
-I’ve realized that Scrum gives to the Scrum Players ( Product Owner, Scrum Master, Team) and also to the stakeholders a common language, some wording, easy to remember that facilitates the communication in between the players. Sounds familiar with Domain Driven Design, but on a process level.
+I’ve realised that Scrum gives to the Scrum Players ( Product Owner, Scrum Master, Team) and also to the stakeholders a common language, some wording, easy to remember that facilitates the communication in between the players. Sounds familiar with Domain Driven Design, but on a process level.
 
 **Vision**
 
@@ -95,17 +95,17 @@ Vision is something that is quite missing on XP, and it’s highly valuable.
 > The minimum plan necessary to start a Scrum project consists of a vision and a Product Backlog. The vision describes why  
 > the project is being undertaken and what the desired end state is.
 
-**Reestimations**
+**Re-estimations**
 
-> Increasing the accuracy of estimating by comparing actual hours worked to estimated hours worked is a suboptimal measurement.
+> Increasing the accuracy of estimating by comparing actual hours worked to estimated hours worked is a sub-optimal measurement.
 
 > Comparing what the Team actually produces to a desired release date and release goals is a much more appropriate measurement.
 
-I’m quite keen on this phrase, I’ve been asked on a couple of projects to re-estimate and I found it quite wasteful, the accuracy of the estimations will be achived Sprint by Sprint, there’s no value on re-estimating during the development.
+I’m quite keen on this phrase, I’ve been asked on a couple of projects to re-estimate and I found it quite wasteful, the accuracy of the estimations will be achieved Sprint by Sprint, there’s no value on re-estimating during the development.
 
-**Methaphors**
+**Metaphors**
 
-> I often compare a ScrumMaster to a sheepdog, responsible for keeping the flock together and the wolves away.
+> I often compare a Scrum Master to a sheepdog, responsible for keeping the flock together and the wolves away.
 
 > One of the ingredients of Scrum is a practice known as sashimi. Sashimi is a Japanese delicacy consisting of thin slices of  
 > raw fish. Each slice is complete in itself, a complete taste similar to the way every other slice tastes.

@@ -4,7 +4,7 @@ description: ""
 date: "2007-08-04T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/mobileboxing-1-1-9001378685ee
+canonical_link: https://javame.netlify.app//mobileboxing-1-1-9001378685ee
 redirect_from:
   - /mobileboxing-1-1-9001378685ee
 ---

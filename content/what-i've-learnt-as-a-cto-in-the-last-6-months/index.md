@@ -4,7 +4,7 @@ description: "A mailing list discussion inspired this ‘end of the year’ pers
 date: "2017-12-21T19:01:02.924Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/what-ive-learnt-as-a-cto-in-the-last-6-months-1d328ba70fb4
+canonical_link: https://javame.netlify.app//what-ive-learnt-as-a-cto-in-the-last-6-months-1d328ba70fb4
 redirect_from:
   - /what-ive-learnt-as-a-cto-in-the-last-6-months-1d328ba70fb4
 ---

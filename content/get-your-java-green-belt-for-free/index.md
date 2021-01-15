@@ -4,7 +4,7 @@ description: ""
 date: "2008-05-18T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/get-your-java-green-belt-for-free-14b045772471
+canonical_link: https://javame.netlify.app//get-your-java-green-belt-for-free-14b045772471
 redirect_from:
   - /get-your-java-green-belt-for-free-14b045772471
 ---

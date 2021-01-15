@@ -4,7 +4,7 @@ description: ""
 date: "2006-07-05T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/my-mum-goes-ubuntu-linux-50e3e021ef9b
+canonical_link: https://javame.netlify.app//my-mum-goes-ubuntu-linux-50e3e021ef9b
 redirect_from:
   - /my-mum-goes-ubuntu-linux-50e3e021ef9b
 ---

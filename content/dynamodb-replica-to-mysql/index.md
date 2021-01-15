@@ -4,7 +4,7 @@ description: "DynamoDB might not be good for everyone, but after almost six mont
 date: "2017-12-15T16:10:46.060Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/dynamodb-replica-to-mysql-8563cd2ac6b8
+canonical_link: https://javame.netlify.app//dynamodb-replica-to-mysql-8563cd2ac6b8
 redirect_from:
   - /dynamodb-replica-to-mysql-8563cd2ac6b8
 ---

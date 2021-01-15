@@ -4,7 +4,7 @@ description: ""
 date: "2009-02-03T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/you-might-want-to-keep-an-eye-on-these-four-opensource-project-270ad9c38653
+canonical_link: https://javame.netlify.app//you-might-want-to-keep-an-eye-on-these-four-opensource-project-270ad9c38653
 redirect_from:
   - /you-might-want-to-keep-an-eye-on-these-four-opensource-project-270ad9c38653
 ---

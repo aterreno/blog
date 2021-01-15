@@ -4,7 +4,7 @@ description: ""
 date: "2011-02-13T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/etl-lessons-learnt-118dc264733a
+canonical_link: https://javame.netlify.app//etl-lessons-learnt-118dc264733a
 redirect_from:
   - /etl-lessons-learnt-118dc264733a
 ---
@@ -20,7 +20,7 @@ Recently I wrote a script that:
 I want now to share what I learnt writing this script.
 
 **Drop OOD, think functional**  
-I didn’t wrote a single domain object, I used just hashes, they comes from Hive, they get used to call the external API, the xml that comes from the API becomes an hash, the data gathered from there goes straight in Mysql as CSV.
+I didn’t wrote a single domain object, I used just hashes, they comes from Hive, they get used to call the external API, the XML that comes from the API becomes an hash, the data gathered from there goes straight in MySQL as CSV.
 
 I wrote the script in ruby, but I wrote few functions, the application is **Stateless but stageful**.   
 There’s no state but every single stage status is saved in mongo.   
@@ -45,7 +45,7 @@ I use Sequel for the DB connectivity but I just use it to efficiently get the co
 **In conclusion, the funny bit is that web application are ETL too :-)**  
 What I wrote is valid for writing web applications too.
 
-The wikipedia page says:
+The Wikipedia page says:
 
 The typical real-life ETL cycle consists of the following execution steps:
 

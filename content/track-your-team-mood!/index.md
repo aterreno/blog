@@ -4,7 +4,7 @@ description: ""
 date: "2008-09-25T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/track-your-team-mood-4d759db5a380
+canonical_link: https://javame.netlify.app//track-your-team-mood-4d759db5a380
 redirect_from:
   - /track-your-team-mood-4d759db5a380
 ---

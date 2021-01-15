@@ -1,17 +1,17 @@
 ---
-title: "Bash Learnings"
+title: "Bash Leanings"
 description: ""
 date: "2014-01-10T17:42:18.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/bash-learnings-7728c7169141
+canonical_link: https://javame.netlify.app//bash-learnings-7728c7169141
 redirect_from:
   - /bash-learnings-7728c7169141
 ---
 
 I recently refactored a pretty large and complex set of bash scripts.
 
-I think Ruby influcenced my Bash coding style quite a lot.
+I think Ruby influenced my Bash coding style quite a lot.
 
 Here’s a list of some of the patterns I’ve followed.
 
@@ -75,7 +75,7 @@ function check\_error { 
 
 #### User interaction
 
-Use colors, Bash is fun with colors  
+Use colours, Bash is fun with colours  
 
 ```bash  
 function error {   
@@ -117,4 +117,4 @@ results=$(ssh -T -q "$remote\_user" "$remote\_command")
 
 Don’t underestimate Bash, it’s an awesome, Turing Complete language and requires no installation.
 
-When the code starts to get too nasty, use your favorite scripting language!
+When the code starts to get too nasty, use your favourite scripting language!

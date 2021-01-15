@@ -4,7 +4,7 @@ description: ""
 date: "2006-11-14T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/kommons-on-koders-abstractrmsbasedcache-java-9285e1d66a03
+canonical_link: https://javame.netlify.app//kommons-on-koders-abstractrmsbasedcache-java-9285e1d66a03
 redirect_from:
   - /kommons-on-koders-abstractrmsbasedcache-java-9285e1d66a03
 ---

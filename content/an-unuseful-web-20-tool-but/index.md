@@ -4,7 +4,7 @@ description: ""
 date: "2007-01-17T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/an-unuseful-web-2-0-tool-but-4f01f8ed582b
+canonical_link: https://javame.netlify.app//an-unuseful-web-2-0-tool-but-4f01f8ed582b
 redirect_from:
   - /an-unuseful-web-2-0-tool-but-4f01f8ed582b
 ---

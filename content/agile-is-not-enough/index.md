@@ -4,7 +4,7 @@ description: ""
 date: "2009-03-14T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/agile-is-not-enough-55af1e8080da
+canonical_link: https://javame.netlify.app//agile-is-not-enough-55af1e8080da
 redirect_from:
   - /agile-is-not-enough-55af1e8080da
 ---

@@ -4,7 +4,7 @@ description: ""
 date: "2006-12-06T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/working-and-having-fun-with-legacy-code-a391f647a7ad
+canonical_link: https://javame.netlify.app//working-and-having-fun-with-legacy-code-a391f647a7ad
 redirect_from:
   - /working-and-having-fun-with-legacy-code-a391f647a7ad
 ---

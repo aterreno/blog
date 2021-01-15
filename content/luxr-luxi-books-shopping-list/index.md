@@ -4,7 +4,7 @@ description: ""
 date: "2011-07-24T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/luxr-luxi-books-shopping-list-8f9636a4ca77
+canonical_link: https://javame.netlify.app//luxr-luxi-books-shopping-list-8f9636a4ca77
 redirect_from:
   - /luxr-luxi-books-shopping-list-8f9636a4ca77
 ---

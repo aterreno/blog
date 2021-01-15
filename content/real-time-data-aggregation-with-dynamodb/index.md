@@ -4,7 +4,7 @@ description: "One of the first things we had to address at Labrador was the data
 date: "2018-07-09T10:43:55.793Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/real-time-aggregation-with-dynamodb-1d4c525a4154
+canonical_link: https://javame.netlify.app//real-time-aggregation-with-dynamodb-1d4c525a4154
 redirect_from:
   - /real-time-aggregation-with-dynamodb-1d4c525a4154
 ---

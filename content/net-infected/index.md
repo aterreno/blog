@@ -4,7 +4,7 @@ description: ""
 date: "2007-06-10T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/net-infected-9be634a85dcc
+canonical_link: https://javame.netlify.app//net-infected-9be634a85dcc
 redirect_from:
   - /net-infected-9be634a85dcc
 ---

@@ -4,7 +4,7 @@ description: ""
 date: "2009-04-28T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/readability-%C3%BCber-alles-51781c800602
+canonical_link: https://javame.netlify.app//readability-%C3%BCber-alles-51781c800602
 redirect_from:
   - /readability-über-alles-51781c800602
 ---

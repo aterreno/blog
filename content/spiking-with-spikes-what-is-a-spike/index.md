@@ -4,7 +4,7 @@ description: ""
 date: "2008-03-16T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/spiking-with-spikes-what-is-a-spike-83a783e09d89
+canonical_link: https://javame.netlify.app//spiking-with-spikes-what-is-a-spike-83a783e09d89
 redirect_from:
   - /spiking-with-spikes-what-is-a-spike-83a783e09d89
 ---

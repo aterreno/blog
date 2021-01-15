@@ -4,7 +4,7 @@ description: ""
 date: "2006-05-14T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/last-fm-the-social-music-revolution-fa0c19941f01
+canonical_link: https://javame.netlify.app//last-fm-the-social-music-revolution-fa0c19941f01
 redirect_from:
   - /last-fm-the-social-music-revolution-fa0c19941f01
 ---

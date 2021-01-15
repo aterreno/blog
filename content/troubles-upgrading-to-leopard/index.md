@@ -4,7 +4,7 @@ description: ""
 date: "2008-02-10T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/troubles-upgrading-to-leopard-a9f88f710873
+canonical_link: https://javame.netlify.app//troubles-upgrading-to-leopard-a9f88f710873
 redirect_from:
   - /troubles-upgrading-to-leopard-a9f88f710873
 ---

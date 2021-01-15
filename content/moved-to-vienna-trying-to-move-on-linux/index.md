@@ -4,7 +4,7 @@ description: ""
 date: "2006-05-03T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/moved-to-vienna-trying-to-move-on-linux-bee631ff89bb
+canonical_link: https://javame.netlify.app//moved-to-vienna-trying-to-move-on-linux-bee631ff89bb
 redirect_from:
   - /moved-to-vienna-trying-to-move-on-linux-bee631ff89bb
 ---

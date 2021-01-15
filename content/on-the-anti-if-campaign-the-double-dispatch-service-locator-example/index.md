@@ -4,7 +4,7 @@ description: ""
 date: "2008-02-04T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/on-the-anti-if-campaign-the-double-dispatch-service-locator-example-75720bb637ef
+canonical_link: https://javame.netlify.app//on-the-anti-if-campaign-the-double-dispatch-service-locator-example-75720bb637ef
 redirect_from:
   - /on-the-anti-if-campaign-the-double-dispatch-service-locator-example-75720bb637ef
 ---

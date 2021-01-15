@@ -4,7 +4,7 @@ description: ""
 date: "2008-11-15T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/comes-a-time-f82f3045d310
+canonical_link: https://javame.netlify.app//comes-a-time-f82f3045d310
 redirect_from:
   - /comes-a-time-f82f3045d310
 ---

@@ -4,7 +4,7 @@ description: ""
 date: "2006-07-05T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/xubuntu-xfce-and-ubuntu-dynamite-a11338a02163
+canonical_link: https://javame.netlify.app//xubuntu-xfce-and-ubuntu-dynamite-a11338a02163
 redirect_from:
   - /xubuntu-xfce-and-ubuntu-dynamite-a11338a02163
 ---

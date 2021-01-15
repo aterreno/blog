@@ -4,7 +4,7 @@ description: "This is the third post of 3 on walking away from social media, ins
 date: "2017-11-12T09:49:16.639Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/walking-off-from-twitter-6df6322ff5e4
+canonical_link: https://javame.netlify.app//walking-off-from-twitter-6df6322ff5e4
 redirect_from:
   - /walking-off-from-twitter-6df6322ff5e4
 ---

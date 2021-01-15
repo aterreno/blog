@@ -4,7 +4,7 @@ description: ""
 date: "2007-09-16T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/some-stuff-you-might-try-in-your-retrospectives-4462ac2e9ec2
+canonical_link: https://javame.netlify.app//some-stuff-you-might-try-in-your-retrospectives-4462ac2e9ec2
 redirect_from:
   - /some-stuff-you-might-try-in-your-retrospectives-4462ac2e9ec2
 ---

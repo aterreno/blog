@@ -4,7 +4,7 @@ description: ""
 date: "2010-02-01T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/suffering-of-selenese-flu-try-webdriver-3759b0236013
+canonical_link: https://javame.netlify.app//suffering-of-selenese-flu-try-webdriver-3759b0236013
 redirect_from:
   - /suffering-of-selenese-flu-try-webdriver-3759b0236013
 ---

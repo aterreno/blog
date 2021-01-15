@@ -4,7 +4,7 @@ description: ""
 date: "2007-03-22T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/netbeans-6d72f495a0f
+canonical_link: https://javame.netlify.app//netbeans-6d72f495a0f
 redirect_from:
   - /netbeans-6d72f495a0f
 ---

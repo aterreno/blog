@@ -4,7 +4,7 @@ description: ""
 date: "2008-02-04T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/how-do-you-build-your-projects-b5a2dd32336
+canonical_link: https://javame.netlify.app//how-do-you-build-your-projects-b5a2dd32336
 redirect_from:
   - /how-do-you-build-your-projects-b5a2dd32336
 ---
@@ -18,8 +18,8 @@ There are some reasons for this and some nice outcomes.
 First of all we wanted to have the same build scripts for Development, CI, QA, UAT and production Environment.
 
 On the Dev machines we need to build, test and install few services (ms services, a web service and a web app).   
-On Cruise same as above but no installation of the services and, indeed some publishing of the artifacts.   
-The QA environment is as close as possible as the UAT/Production: it just needs installation scripts and a way to get the latest artifacts published by [Cruise](http://confluence.public.thoughtworks.org/display/CCNET/Welcome+to+CruiseControl.NET).   
+On Cruise same as above but no installation of the services and, indeed some publishing of the artefacts.   
+The QA environment is as close as possible as the UAT/Production: it just needs installation scripts and a way to get the latest artefacts published by [Cruise](http://confluence.public.thoughtworks.org/display/CCNET/Welcome+to+CruiseControl.NET).   
 Using the same script gave us a great confidence when going to production: scripts were used every day by the QA, no surprises when going live.   
 We got completely rid of all the .bat files for 2 main reasons: they become messy after 1 year of patches/fixes/modifications and we can’t really achieve the goal of one script for all as we wanted.
 

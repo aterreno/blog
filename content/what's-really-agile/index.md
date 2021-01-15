@@ -4,7 +4,7 @@ description: ""
 date: "2009-02-02T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/whats-really-agile-ae82ecb7fb31
+canonical_link: https://javame.netlify.app//whats-really-agile-ae82ecb7fb31
 redirect_from:
   - /whats-really-agile-ae82ecb7fb31
 ---

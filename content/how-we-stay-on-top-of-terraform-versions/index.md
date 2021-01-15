@@ -1,12 +1,12 @@
 ---
-title: "How we stay on top of terraform versions"
+title: "How we stay on top of Terraform versions"
 description: "At Labrador we have all our infrastructure in code, we use AWS and love Terraform."
 date: "2017-12-01T17:55:04.524Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/how-we-stay-on-top-of-terraform-versions-4987ef4abae7
+canonical_link: https://javame.netlify.app//how-we-stay-on-top-of-terraform-versions-4987ef4abae7
 redirect_from:
-  - /how-we-stay-on-top-of-terraform-versions-4987ef4abae7
+  - /how-we-stay-on-top-of-Terraform-versions-4987ef4abae7
 ---
 
 At [Labrador](https://www.thelabrador.co.uk/) we have all our infrastructure in code, we use [AWS](https://aws.amazon.com/) and love [Terraform](https://www.terraform.io/).

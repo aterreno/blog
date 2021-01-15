@@ -4,7 +4,7 @@ description: ""
 date: "2009-10-19T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/shoot-for-simplicity-53304d2156e5
+canonical_link: https://javame.netlify.app//shoot-for-simplicity-53304d2156e5
 redirect_from:
   - /shoot-for-simplicity-53304d2156e5
 ---

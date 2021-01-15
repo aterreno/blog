@@ -4,7 +4,7 @@ description: ""
 date: "2006-06-07T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/raible-designs-tips-for-productivity-and-happiness-at-work-2ad10142a131
+canonical_link: https://javame.netlify.app//raible-designs-tips-for-productivity-and-happiness-at-work-2ad10142a131
 redirect_from:
   - /raible-designs-tips-for-productivity-and-happiness-at-work-2ad10142a131
 ---

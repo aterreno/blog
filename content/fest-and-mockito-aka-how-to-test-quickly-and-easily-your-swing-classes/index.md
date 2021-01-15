@@ -4,7 +4,7 @@ description: ""
 date: "2009-04-01T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/fest-mockito-aka-how-to-test-quickly-and-easily-your-swing-classes-8cc68648d458
+canonical_link: https://javame.netlify.app//fest-mockito-aka-how-to-test-quickly-and-easily-your-swing-classes-8cc68648d458
 redirect_from:
   - /fest-mockito-aka-how-to-test-quickly-and-easily-your-swing-classes-8cc68648d458
 ---

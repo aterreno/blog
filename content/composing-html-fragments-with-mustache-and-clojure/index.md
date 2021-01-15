@@ -4,7 +4,7 @@ description: ""
 date: "2013-08-10T10:40:37.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/composing-html-fragments-with-mustache-and-clojure-62bb3e8ad935
+canonical_link: https://javame.netlify.app//composing-html-fragments-with-mustache-and-clojure-62bb3e8ad935
 redirect_from:
   - /composing-html-fragments-with-mustache-and-clojure-62bb3e8ad935
 ---

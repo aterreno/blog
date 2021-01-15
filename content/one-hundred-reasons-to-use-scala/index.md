@@ -4,7 +4,7 @@ description: ""
 date: "2009-05-21T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/one-hundred-reasons-to-use-scala-c6a72e9e7f97
+canonical_link: https://javame.netlify.app//one-hundred-reasons-to-use-scala-c6a72e9e7f97
 redirect_from:
   - /one-hundred-reasons-to-use-scala-c6a72e9e7f97
 ---

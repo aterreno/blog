@@ -4,7 +4,7 @@ description: ""
 date: "2007-01-13T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/thirteen-reasons-to-doubt-the-iphone-hype-crave-the-gadget-blog-f9f117de042f
+canonical_link: https://javame.netlify.app//thirteen-reasons-to-doubt-the-iphone-hype-crave-the-gadget-blog-f9f117de042f
 redirect_from:
   - /thirteen-reasons-to-doubt-the-iphone-hype-crave-the-gadget-blog-f9f117de042f
 ---

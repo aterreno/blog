@@ -4,7 +4,7 @@ description: ""
 date: "2009-08-30T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/fm-the-story-of-a-repeatable-agile-successful-project-ff38fca0995a
+canonical_link: https://javame.netlify.app//fm-the-story-of-a-repeatable-agile-successful-project-ff38fca0995a
 redirect_from:
   - /fm-the-story-of-a-repeatable-agile-successful-project-ff38fca0995a
 ---

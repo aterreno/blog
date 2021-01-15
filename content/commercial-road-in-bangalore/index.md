@@ -4,7 +4,7 @@ description: ""
 date: "2006-10-20T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/commercial-road-in-bangalore-aefacc7ff4a5
+canonical_link: https://javame.netlify.app//commercial-road-in-bangalore-aefacc7ff4a5
 redirect_from:
   - /commercial-road-in-bangalore-aefacc7ff4a5
 ---

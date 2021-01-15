@@ -4,7 +4,7 @@ description: ""
 date: "2008-09-18T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/reviving-jrake-64a2478ea858
+canonical_link: https://javame.netlify.app//reviving-jrake-64a2478ea858
 redirect_from:
   - /reviving-jrake-64a2478ea858
 ---

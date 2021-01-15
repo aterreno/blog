@@ -4,7 +4,7 @@ description: ""
 date: "2010-11-03T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/forward-technology-blog-1dddac8e5d27
+canonical_link: https://javame.netlify.app//forward-technology-blog-1dddac8e5d27
 redirect_from:
   - /forward-technology-blog-1dddac8e5d27
 ---

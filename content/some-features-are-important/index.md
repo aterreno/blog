@@ -4,7 +4,7 @@ description: ""
 date: "2008-10-02T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/some-features-are-important-1b39192332d9
+canonical_link: https://javame.netlify.app//some-features-are-important-1b39192332d9
 redirect_from:
   - /some-features-are-important-1b39192332d9
 ---

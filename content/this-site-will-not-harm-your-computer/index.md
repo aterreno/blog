@@ -4,7 +4,7 @@ description: ""
 date: "2008-08-24T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/this-site-will-not-harm-your-computer-fa746bcf4fae
+canonical_link: https://javame.netlify.app//this-site-will-not-harm-your-computer-fa746bcf4fae
 redirect_from:
   - /this-site-will-not-harm-your-computer-fa746bcf4fae
 ---

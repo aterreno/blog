@@ -4,7 +4,7 @@ description: ""
 date: "2008-02-11T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/dont-call-them-phones-the-g-phone-and-i-phone-battle-44349ae1d51d
+canonical_link: https://javame.netlify.app//dont-call-them-phones-the-g-phone-and-i-phone-battle-44349ae1d51d
 redirect_from:
   - /dont-call-them-phones-the-g-phone-and-i-phone-battle-44349ae1d51d
 ---
@@ -28,7 +28,7 @@ Is it only a [coincidence](http://beust.com/weblog/archives/000469.html) that he
   
 Android offers many things, missed for too many years by Sun on the JavaMe platform.
 
-\- Deep phone integration (ability to interoperate between apps, make calls and so on with the phone)  
+\- Deep phone integration (ability to inter-operate between apps, make calls and so on with the phone)  
   
 \- Ready to use "widgets" like maps  
   

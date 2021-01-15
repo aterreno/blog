@@ -4,7 +4,7 @@ description: ""
 date: "2007-07-11T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/stefan-sagmeister-at-tedtalks-635fe03df8e9
+canonical_link: https://javame.netlify.app//stefan-sagmeister-at-tedtalks-635fe03df8e9
 redirect_from:
   - /stefan-sagmeister-at-tedtalks-635fe03df8e9
 ---

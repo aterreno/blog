@@ -4,7 +4,7 @@ description: "Reading this article made me think quite a lot, and since I’ve b
 date: "2017-11-12T09:20:58.303Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/walking-off-from-instagram-18ac6a66d998
+canonical_link: https://javame.netlify.app//walking-off-from-instagram-18ac6a66d998
 redirect_from:
   - /walking-off-from-instagram-18ac6a66d998
 ---

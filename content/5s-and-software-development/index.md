@@ -4,7 +4,7 @@ description: ""
 date: "2010-01-04T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/5s-and-software-development-39d18725f290
+canonical_link: https://javame.netlify.app//5s-and-software-development-39d18725f290
 redirect_from:
   - /5s-and-software-development-39d18725f290
 ---

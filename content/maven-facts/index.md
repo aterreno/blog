@@ -4,7 +4,7 @@ description: ""
 date: "2009-04-16T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/maven-facts-3e2e37f7110c
+canonical_link: https://javame.netlify.app//maven-facts-3e2e37f7110c
 redirect_from:
   - /maven-facts-3e2e37f7110c
 ---

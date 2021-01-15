@@ -4,7 +4,7 @@ description: ""
 date: "2007-06-20T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/iphone-to-support-third-party-web-2-0-applications-29b27c939675
+canonical_link: https://javame.netlify.app//iphone-to-support-third-party-web-2-0-applications-29b27c939675
 redirect_from:
   - /iphone-to-support-third-party-web-2-0-applications-29b27c939675
 ---

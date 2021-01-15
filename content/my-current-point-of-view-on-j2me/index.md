@@ -4,7 +4,7 @@ description: ""
 date: "2007-01-14T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/my-current-point-of-view-on-j2me-1ee9dd61e1e6
+canonical_link: https://javame.netlify.app//my-current-point-of-view-on-j2me-1ee9dd61e1e6
 redirect_from:
   - /my-current-point-of-view-on-j2me-1ee9dd61e1e6
 ---

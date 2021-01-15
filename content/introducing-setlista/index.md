@@ -4,7 +4,7 @@ description: ""
 date: "2014-07-23T16:19:58.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/introducing-setlista-eb9bf2a357e4
+canonical_link: https://javame.netlify.app//introducing-setlista-eb9bf2a357e4
 redirect_from:
   - /introducing-setlista-eb9bf2a357e4
 ---

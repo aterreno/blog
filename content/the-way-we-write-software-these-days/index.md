@@ -4,7 +4,7 @@ description: ""
 date: "2010-11-28T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/the-way-we-write-software-these-days-ea1820f3345f
+canonical_link: https://javame.netlify.app//the-way-we-write-software-these-days-ea1820f3345f
 redirect_from:
   - /the-way-we-write-software-these-days-ea1820f3345f
 ---

@@ -4,7 +4,7 @@ description: ""
 date: "2008-06-09T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/goosh-org-the-unofficial-google-shell-8b6a9e310d2f
+canonical_link: https://javame.netlify.app//goosh-org-the-unofficial-google-shell-8b6a9e310d2f
 redirect_from:
   - /goosh-org-the-unofficial-google-shell-8b6a9e310d2f
 ---

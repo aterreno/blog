@@ -4,7 +4,7 @@ description: ""
 date: "2010-11-21T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/agiler-at-forward-and-successful-at-the-iad10-d0a2899dad2c
+canonical_link: https://javame.netlify.app//agiler-at-forward-and-successful-at-the-iad10-d0a2899dad2c
 redirect_from:
   - /agiler-at-forward-and-successful-at-the-iad10-d0a2899dad2c
 ---

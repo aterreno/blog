@@ -4,7 +4,7 @@ description: ""
 date: "2010-09-03T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/i-prefer-small-monitors-over-big-monitors-7843add0f3f1
+canonical_link: https://javame.netlify.app//i-prefer-small-monitors-over-big-monitors-7843add0f3f1
 redirect_from:
   - /i-prefer-small-monitors-over-big-monitors-7843add0f3f1
 ---

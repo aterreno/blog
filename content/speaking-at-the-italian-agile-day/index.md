@@ -4,7 +4,7 @@ description: ""
 date: "2009-10-04T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/speaking-at-the-italian-agile-day-aaec1ea08cf2
+canonical_link: https://javame.netlify.app//speaking-at-the-italian-agile-day-aaec1ea08cf2
 redirect_from:
   - /speaking-at-the-italian-agile-day-aaec1ea08cf2
 ---

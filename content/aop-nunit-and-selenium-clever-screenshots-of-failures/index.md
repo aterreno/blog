@@ -4,7 +4,7 @@ description: ""
 date: "2010-02-07T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/aop-nunit-and-selenium-clever-screenshots-of-failures-839dfed450e2
+canonical_link: https://javame.netlify.app//aop-nunit-and-selenium-clever-screenshots-of-failures-839dfed450e2
 redirect_from:
   - /aop-nunit-and-selenium-clever-screenshots-of-failures-839dfed450e2
 ---

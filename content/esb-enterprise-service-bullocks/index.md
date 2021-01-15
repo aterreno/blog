@@ -4,7 +4,7 @@ description: ""
 date: "2009-04-29T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/esb-enterprise-service-bullocks-137b0776937f
+canonical_link: https://javame.netlify.app//esb-enterprise-service-bullocks-137b0776937f
 redirect_from:
   - /esb-enterprise-service-bullocks-137b0776937f
 ---

@@ -4,7 +4,7 @@ description: ""
 date: "2008-03-16T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/java-essentials-1689568c1f21
+canonical_link: https://javame.netlify.app//java-essentials-1689568c1f21
 redirect_from:
   - /java-essentials-1689568c1f21
 ---

@@ -4,7 +4,7 @@ description: "At ChargedUp, we’ve implemented last year the pattern described 
 date: "2020-03-19T10:41:18.520Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/how-to-automatically-create-cloudwatch-alerts-with-cloudtrail-lambda-and-serverless-62aca7bdac5b
+canonical_link: https://javame.netlify.app//how-to-automatically-create-cloudwatch-alerts-with-cloudtrail-lambda-and-serverless-62aca7bdac5b
 redirect_from:
   - /how-to-automatically-create-cloudwatch-alerts-with-cloudtrail-lambda-and-serverless-62aca7bdac5b
 ---

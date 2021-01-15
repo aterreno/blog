@@ -4,7 +4,7 @@ description: ""
 date: "2007-07-21T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/pragmatic-tips-on-wordpress-b4925d4a7c33
+canonical_link: https://javame.netlify.app//pragmatic-tips-on-wordpress-b4925d4a7c33
 redirect_from:
   - /pragmatic-tips-on-wordpress-b4925d4a7c33
 ---

@@ -4,7 +4,7 @@ description: ""
 date: "2008-11-19T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/waffles-are-good-do-you-fancy-a-waffle-2da9a3e8e86
+canonical_link: https://javame.netlify.app//waffles-are-good-do-you-fancy-a-waffle-2da9a3e8e86
 redirect_from:
   - /waffles-are-good-do-you-fancy-a-waffle-2da9a3e8e86
 ---

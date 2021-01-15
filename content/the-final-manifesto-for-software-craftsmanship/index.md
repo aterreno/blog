@@ -4,7 +4,7 @@ description: ""
 date: "2009-03-06T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/the-final-manifesto-for-software-craftsmanship-b1581ad8e1cf
+canonical_link: https://javame.netlify.app//the-final-manifesto-for-software-craftsmanship-b1581ad8e1cf
 redirect_from:
   - /the-final-manifesto-for-software-craftsmanship-b1581ad8e1cf
 ---

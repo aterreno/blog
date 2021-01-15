@@ -4,7 +4,7 @@ description: ""
 date: "2009-05-07T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/crystal-clear-a-human-powered-methodology-for-small-teams-cd7b579d3424
+canonical_link: https://javame.netlify.app//crystal-clear-a-human-powered-methodology-for-small-teams-cd7b579d3424
 redirect_from:
   - /crystal-clear-a-human-powered-methodology-for-small-teams-cd7b579d3424
 ---
@@ -58,7 +58,7 @@ A typical not agile team will have a lead/architect that never makes (i.e. admit
 
 **Focus**
 
-Focus is essential, Alistair talks more about having a priorized list of tasks to do rather than anything else, I would add that tecniques such as the [pomodoro tecnique](http://www.pomodorotechnique.com/) can improve the concentration of the team. Other basic rules are listed by [this nice post from Matt Raible](http://raibledesigns.com/rd/entry/tips_for_productivity_and_happiness), that I often read to check if I’m really happy at work :-)
+Focus is essential, Alistair talks more about having a priories list of tasks to do rather than anything else, I would add that techniques such as the [pomodoro tecnique](http://www.pomodorotechnique.com/) can improve the concentration of the team. Other basic rules are listed by [this nice post from Matt Raible](http://raibledesigns.com/rd/entry/tips_for_productivity_and_happiness), that I often read to check if I’m really happy at work :-)
 
 > two-hour time window during which interruptions are blocked: meetings, phone calls, and demos are not allowed
 
@@ -68,4 +68,4 @@ Focus is essential, Alistair talks more about having a priorized list of tasks t
 
 > Ron Jeffries once characterized Crystal Clear as, "Bring a few developers together in peace, love and harmony, shipping code every other month, and good software will emerge.
 
-I agree, I would add that Crystal gives some hints on how to maximize the happyness and productivity of the team that other methologies don’t discuss at all, in the end the best thing you can do is mix something from Crystal with XP & Scrum to obtain the best results.
+I agree, I would add that Crystal gives some hints on how to maximise the happiness and productivity of the team that other methodologies don’t discuss at all, in the end the best thing you can do is mix something from Crystal with XP & Scrum to obtain the best results.

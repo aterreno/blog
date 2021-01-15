@@ -4,7 +4,7 @@ description: ""
 date: "2006-06-27T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/hi-mr-gosling-70b4786b0051
+canonical_link: https://javame.netlify.app//hi-mr-gosling-70b4786b0051
 redirect_from:
   - /hi-mr-gosling-70b4786b0051
 ---

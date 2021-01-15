@@ -4,7 +4,7 @@ description: ""
 date: "2009-02-13T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/when-made-in-italy-is-not-only-fashion-9aba856c9c13
+canonical_link: https://javame.netlify.app//when-made-in-italy-is-not-only-fashion-9aba856c9c13
 redirect_from:
   - /when-made-in-italy-is-not-only-fashion-9aba856c9c13
 ---

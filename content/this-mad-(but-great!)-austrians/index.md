@@ -4,7 +4,7 @@ description: ""
 date: "2006-05-14T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/this-mad-but-great-austrians-585c215ec1b1
+canonical_link: https://javame.netlify.app//this-mad-but-great-austrians-585c215ec1b1
 redirect_from:
   - /this-mad-but-great-austrians-585c215ec1b1
 ---

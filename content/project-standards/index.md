@@ -4,7 +4,7 @@ description: ""
 date: "2009-05-08T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/project-standards-d451dec26d97
+canonical_link: https://javame.netlify.app//project-standards-d451dec26d97
 redirect_from:
   - /project-standards-d451dec26d97
 ---

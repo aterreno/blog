@@ -4,7 +4,7 @@ description: ""
 date: "2011-07-23T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/luxr-luxi-tweets-roundup-360d8876e9f
+canonical_link: https://javame.netlify.app//luxr-luxi-tweets-roundup-360d8876e9f
 redirect_from:
   - /luxr-luxi-tweets-roundup-360d8876e9f
 ---

@@ -4,7 +4,7 @@ description: ""
 date: "2008-02-12T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/some-n-hibernate-learnings-7d83fe88df2c
+canonical_link: https://javame.netlify.app//some-n-hibernate-learnings-7d83fe88df2c
 redirect_from:
   - /some-n-hibernate-learnings-7d83fe88df2c
 ---

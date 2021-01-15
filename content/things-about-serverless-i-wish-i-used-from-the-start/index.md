@@ -4,7 +4,7 @@ description: "This list comes from the time ‘wasted’ going through multiple 
 date: "2019-02-22T16:57:22.988Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/things-about-serverless-i-wish-i-used-from-the-start-edd3841d6a95
+canonical_link: https://javame.netlify.app//things-about-serverless-i-wish-i-used-from-the-start-edd3841d6a95
 redirect_from:
   - /things-about-serverless-i-wish-i-used-from-the-start-edd3841d6a95
 ---

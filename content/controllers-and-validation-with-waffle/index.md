@@ -4,7 +4,7 @@ description: ""
 date: "2008-11-20T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/controllers-and-validation-with-waffle-43c667a47d11
+canonical_link: https://javame.netlify.app//controllers-and-validation-with-waffle-43c667a47d11
 redirect_from:
   - /controllers-and-validation-with-waffle-43c667a47d11
 ---

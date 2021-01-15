@@ -4,7 +4,7 @@ description: ""
 date: "2007-06-21T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/retrospectives-318f79d675b5
+canonical_link: https://javame.netlify.app//retrospectives-318f79d675b5
 redirect_from:
   - /retrospectives-318f79d675b5
 ---

@@ -1,15 +1,15 @@
 ---
 title: "Engineering will never be a commodity"
-description: "One of the harshest antipatterns I’ve seen in organisations in my career is to treat the engineering team as a commodity."
+description: "One of the harshest anti-patterns I’ve seen in organisations in my career is to treat the engineering team as a commodity."
 date: "2018-01-26T12:10:54.418Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/engineering-will-never-be-a-commodity-48366546f100
+canonical_link: https://javame.netlify.app//engineering-will-never-be-a-commodity-48366546f100
 redirect_from:
   - /engineering-will-never-be-a-commodity-48366546f100
 ---
 
-One of the harshest antipatterns I’ve seen in organisations in my career is to treat the engineering team as a commodity.
+One of the harshest anti-patterns I’ve seen in organisations in my career is to treat the engineering team as a commodity.
 
 Let’s have a look at the definition of commodity:
 
@@ -31,7 +31,7 @@ The issue is that in a digital world every single business needs to inspired and
 
 > Art challenges technology, but technology inspires the art.
 
-> John Lasseter
+> John Lister
 
 The engineers, demotivated at this point because treated as commodity will start searching for new jobs, trying to find a place where their craft will be recognised and where they might influence the business.
 
@@ -39,6 +39,6 @@ Let’s remember the 3 pillars from Daniel Pink for Motivation:
 
 > Autonomy, Mastery and Purpose
 
-In my experience even if one of the 3 pillars is missing the team will underperform, the engineering team can be very autonomous (in fact, working as a commodity often implies silo work), can master their craft using state of the art process and tech but without a purpose, just taking orders from ‘above’ won’t last long.
+In my experience even if one of the 3 pillars is missing the team will under-perform, the engineering team can be very autonomous (in fact, working as a commodity often implies silo work), can master their craft using state of the art process and tech but without a purpose, just taking orders from ‘above’ won’t last long.
 
 No matter how much you are following your principles as an engineer, if your are not driving the company decisions and you have zero chances to change your status, you should leave your job, now, and tell everyone why you are leaving!

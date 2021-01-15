@@ -4,7 +4,7 @@ description: ""
 date: "2008-02-24T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/qi4j-an-implementation-of-composite-oriented-programming-d09b3305b23c
+canonical_link: https://javame.netlify.app//qi4j-an-implementation-of-composite-oriented-programming-d09b3305b23c
 redirect_from:
   - /qi4j-an-implementation-of-composite-oriented-programming-d09b3305b23c
 ---

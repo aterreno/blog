@@ -4,7 +4,7 @@ description: ""
 date: "2009-05-04T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/planning-extreme-programming-b89ad0c5cb50
+canonical_link: https://javame.netlify.app//planning-extreme-programming-b89ad0c5cb50
 redirect_from:
   - /planning-extreme-programming-b89ad0c5cb50
 ---

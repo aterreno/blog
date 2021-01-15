@@ -4,7 +4,7 @@ description: ""
 date: "2007-07-21T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/inheritance-is-not-oo-template-methods-are-evil-c3a28d4902ce
+canonical_link: https://javame.netlify.app//inheritance-is-not-oo-template-methods-are-evil-c3a28d4902ce
 redirect_from:
   - /inheritance-is-not-oo-template-methods-are-evil-c3a28d4902ce
 ---

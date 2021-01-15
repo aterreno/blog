@@ -4,7 +4,7 @@ description: ""
 date: "2010-10-29T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/wanna-go-fast-reduce-your-feedback-loops-ced8be8b8edf
+canonical_link: https://javame.netlify.app//wanna-go-fast-reduce-your-feedback-loops-ced8be8b8edf
 redirect_from:
   - /wanna-go-fast-reduce-your-feedback-loops-ced8be8b8edf
 ---

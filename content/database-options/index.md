@@ -4,7 +4,7 @@ description: ""
 date: "2009-04-21T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/database-options-249a3bbc50ad
+canonical_link: https://javame.netlify.app//database-options-249a3bbc50ad
 redirect_from:
   - /database-options-249a3bbc50ad
 ---

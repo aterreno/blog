@@ -4,7 +4,7 @@ description: ""
 date: "2008-09-08T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/its-time-to-write-a-better-build-tool-c2aee7cc13c7
+canonical_link: https://javame.netlify.app//its-time-to-write-a-better-build-tool-c2aee7cc13c7
 redirect_from:
   - /its-time-to-write-a-better-build-tool-c2aee7cc13c7
 ---

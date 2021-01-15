@@ -4,7 +4,7 @@ description: ""
 date: "2009-06-10T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/a-very-long-list-of-agile-lean-c-books-e12b8409173e
+canonical_link: https://javame.netlify.app//a-very-long-list-of-agile-lean-c-books-e12b8409173e
 redirect_from:
   - /a-very-long-list-of-agile-lean-c-books-e12b8409173e
 ---

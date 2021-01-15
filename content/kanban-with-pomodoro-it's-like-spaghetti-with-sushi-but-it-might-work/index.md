@@ -4,7 +4,7 @@ description: ""
 date: "2009-06-08T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/kanban-with-pomodoro-its-like-spaghetti-with-sushi-but-it-might-work-f37eaaefa22e
+canonical_link: https://javame.netlify.app//kanban-with-pomodoro-its-like-spaghetti-with-sushi-but-it-might-work-f37eaaefa22e
 redirect_from:
   - /kanban-with-pomodoro-its-like-spaghetti-with-sushi-but-it-might-work-f37eaaefa22e
 ---

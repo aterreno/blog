@@ -4,7 +4,7 @@ description: ""
 date: "2008-09-26T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/evolutionary-project-management-f8abc99f1588
+canonical_link: https://javame.netlify.app//evolutionary-project-management-f8abc99f1588
 redirect_from:
   - /evolutionary-project-management-f8abc99f1588
 ---

@@ -4,7 +4,7 @@ description: ""
 date: "2008-11-08T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/helloworld-v-2-0-c16a8d82916d
+canonical_link: https://javame.netlify.app//helloworld-v-2-0-c16a8d82916d
 redirect_from:
   - /helloworld-v-2-0-c16a8d82916d
 ---

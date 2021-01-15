@@ -4,7 +4,7 @@ description: "I landed at Heathrow airport the summer of 2006, one day I was int
 date: "2016-06-27T10:41:13.657Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/it-takes-half-a-nation-to-ruin-a-nation-5cdc390defa6
+canonical_link: https://javame.netlify.app//it-takes-half-a-nation-to-ruin-a-nation-5cdc390defa6
 redirect_from:
   - /it-takes-half-a-nation-to-ruin-a-nation-5cdc390defa6
 ---

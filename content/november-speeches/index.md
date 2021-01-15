@@ -4,7 +4,7 @@ description: ""
 date: "2007-11-13T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/november-speeches-1f22ab81dbc
+canonical_link: https://javame.netlify.app//november-speeches-1f22ab81dbc
 redirect_from:
   - /november-speeches-1f22ab81dbc
 ---

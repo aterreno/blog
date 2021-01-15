@@ -4,7 +4,7 @@ description: ""
 date: "2010-05-02T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/the-speckled-people-86b903d39522
+canonical_link: https://javame.netlify.app//the-speckled-people-86b903d39522
 redirect_from:
   - /the-speckled-people-86b903d39522
 ---

@@ -4,7 +4,7 @@ description: ""
 date: "2006-08-16T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/thoughtworks-experience-ii-572c39ba8acf
+canonical_link: https://javame.netlify.app//thoughtworks-experience-ii-572c39ba8acf
 redirect_from:
   - /thoughtworks-experience-ii-572c39ba8acf
 ---

@@ -4,7 +4,7 @@ description: ""
 date: "2007-07-24T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/what-if-apple-has-sold-fewer-than-1-million-iphones-d4ce9371e60
+canonical_link: https://javame.netlify.app//what-if-apple-has-sold-fewer-than-1-million-iphones-d4ce9371e60
 redirect_from:
   - /what-if-apple-has-sold-fewer-than-1-million-iphones-d4ce9371e60
 ---

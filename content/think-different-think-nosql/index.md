@@ -4,7 +4,7 @@ description: ""
 date: "2010-10-29T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/think-different-think-nosql-1f4ad2b1e9ec
+canonical_link: https://javame.netlify.app//think-different-think-nosql-1f4ad2b1e9ec
 redirect_from:
   - /think-different-think-nosql-1f4ad2b1e9ec
 ---

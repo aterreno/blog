@@ -4,7 +4,7 @@ description: "I do like LinkedIn, I do read the feed from time to time, with som
 date: "2017-12-20T19:01:02.676Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/tuning-linkedin-privacy-settings-64983fa3dfa3
+canonical_link: https://javame.netlify.app//tuning-linkedin-privacy-settings-64983fa3dfa3
 redirect_from:
   - /tuning-linkedin-privacy-settings-64983fa3dfa3
 ---

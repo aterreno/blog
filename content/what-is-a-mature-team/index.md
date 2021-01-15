@@ -4,7 +4,7 @@ description: ""
 date: "2008-02-05T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/what-is-a-mature-team-b7c52f36c18
+canonical_link: https://javame.netlify.app//what-is-a-mature-team-b7c52f36c18
 redirect_from:
   - /what-is-a-mature-team-b7c52f36c18
 ---

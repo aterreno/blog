@@ -4,7 +4,7 @@ description: ""
 date: "2008-10-01T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/micro-time-boxing-as-a-lean-tool-f635219733ff
+canonical_link: https://javame.netlify.app//micro-time-boxing-as-a-lean-tool-f635219733ff
 redirect_from:
   - /micro-time-boxing-as-a-lean-tool-f635219733ff
 ---

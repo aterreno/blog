@@ -4,7 +4,7 @@ description: ""
 date: "2007-11-14T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/observational-learning-in-teams-124470c06c9f
+canonical_link: https://javame.netlify.app//observational-learning-in-teams-124470c06c9f
 redirect_from:
   - /observational-learning-in-teams-124470c06c9f
 ---

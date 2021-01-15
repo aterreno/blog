@@ -4,7 +4,7 @@ description: ""
 date: "2008-11-12T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/tired-of-slow-functional-tests-d05fd64eee
+canonical_link: https://javame.netlify.app//tired-of-slow-functional-tests-d05fd64eee
 redirect_from:
   - /tired-of-slow-functional-tests-d05fd64eee
 ---

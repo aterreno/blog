@@ -4,7 +4,7 @@ description: ""
 date: "2007-02-28T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/sql-2005-as-an-antipattern-74ffcb85506c
+canonical_link: https://javame.netlify.app//sql-2005-as-an-antipattern-74ffcb85506c
 redirect_from:
   - /sql-2005-as-an-antipattern-74ffcb85506c
 ---

@@ -4,7 +4,7 @@ description: ""
 date: "2006-10-23T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/instant-logging-harness-the-power-of-log4j-with-jabber-b7a94af98658
+canonical_link: https://javame.netlify.app//instant-logging-harness-the-power-of-log4j-with-jabber-b7a94af98658
 redirect_from:
   - /instant-logging-harness-the-power-of-log4j-with-jabber-b7a94af98658
 ---

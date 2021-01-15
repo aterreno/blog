@@ -4,7 +4,7 @@ description: ""
 date: "2007-10-11T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/javaday-in-turin-a9e9d310568f
+canonical_link: https://javame.netlify.app//javaday-in-turin-a9e9d310568f
 redirect_from:
   - /javaday-in-turin-a9e9d310568f
 ---

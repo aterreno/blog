@@ -4,7 +4,7 @@ description: ""
 date: "2006-10-04T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/railing-while-waiting-for-india-1472f8c5e5af
+canonical_link: https://javame.netlify.app//railing-while-waiting-for-india-1472f8c5e5af
 redirect_from:
   - /railing-while-waiting-for-india-1472f8c5e5af
 ---

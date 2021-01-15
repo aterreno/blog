@@ -4,7 +4,7 @@ description: ""
 date: "2008-10-02T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/stallman-is-wrong-85d7f2d3faf0
+canonical_link: https://javame.netlify.app//stallman-is-wrong-85d7f2d3faf0
 redirect_from:
   - /stallman-is-wrong-85d7f2d3faf0
 ---

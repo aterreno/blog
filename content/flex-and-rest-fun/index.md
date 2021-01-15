@@ -4,7 +4,7 @@ description: ""
 date: "2009-06-04T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/flex-rest-fun-ee53ede4501
+canonical_link: https://javame.netlify.app//flex-rest-fun-ee53ede4501
 redirect_from:
   - /flex-rest-fun-ee53ede4501
 ---

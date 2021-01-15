@@ -4,7 +4,7 @@ description: ""
 date: "2007-01-06T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/infoq-infoq-book-domain-driven-design-quickly-396755985ca7
+canonical_link: https://javame.netlify.app//infoq-infoq-book-domain-driven-design-quickly-396755985ca7
 redirect_from:
   - /infoq-infoq-book-domain-driven-design-quickly-396755985ca7
 ---

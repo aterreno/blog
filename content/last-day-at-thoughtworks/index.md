@@ -4,7 +4,7 @@ description: ""
 date: "2010-06-11T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/last-day-at-thoughtworks-7b6fe6288c68
+canonical_link: https://javame.netlify.app//last-day-at-thoughtworks-7b6fe6288c68
 redirect_from:
   - /last-day-at-thoughtworks-7b6fe6288c68
 ---

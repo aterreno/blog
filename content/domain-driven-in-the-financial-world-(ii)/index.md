@@ -4,7 +4,7 @@ description: ""
 date: "2008-06-17T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/domain-driven-in-the-financial-world-ii-767e50b3e8b4
+canonical_link: https://javame.netlify.app//domain-driven-in-the-financial-world-ii-767e50b3e8b4
 redirect_from:
   - /domain-driven-in-the-financial-world-ii-767e50b3e8b4
 ---

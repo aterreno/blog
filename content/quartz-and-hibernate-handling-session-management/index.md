@@ -4,7 +4,7 @@ description: ""
 date: "2006-05-06T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/quartz-and-hibernate-handling-session-management-cd3d773d1b15
+canonical_link: https://javame.netlify.app//quartz-and-hibernate-handling-session-management-cd3d773d1b15
 redirect_from:
   - /quartz-and-hibernate-handling-session-management-cd3d773d1b15
 ---

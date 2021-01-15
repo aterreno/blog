@@ -4,7 +4,7 @@ description: ""
 date: "2007-02-06T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/am-i-lazy-maybe-not-b53732c33b96
+canonical_link: https://javame.netlify.app//am-i-lazy-maybe-not-b53732c33b96
 redirect_from:
   - /am-i-lazy-maybe-not-b53732c33b96
 ---

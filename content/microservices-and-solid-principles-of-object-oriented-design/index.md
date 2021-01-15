@@ -4,7 +4,7 @@ description: ""
 date: "2013-09-30T10:39:44.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/microservices-and-solid-principles-of-object-oriented-design-fab2e0a6a2c7
+canonical_link: https://javame.netlify.app//microservices-and-solid-principles-of-object-oriented-design-fab2e0a6a2c7
 redirect_from:
   - /microservices-and-solid-principles-of-object-oriented-design-fab2e0a6a2c7
 ---

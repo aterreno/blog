@@ -4,7 +4,7 @@ description: ""
 date: "2009-01-24T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/mavenized-c37562c27b22
+canonical_link: https://javame.netlify.app//mavenized-c37562c27b22
 redirect_from:
   - /mavenized-c37562c27b22
 ---

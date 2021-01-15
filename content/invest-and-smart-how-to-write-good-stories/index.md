@@ -4,7 +4,7 @@ description: ""
 date: "2006-10-23T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/invest-and-smart-how-to-write-good-stories-6479fb084f3b
+canonical_link: https://javame.netlify.app//invest-and-smart-how-to-write-good-stories-6479fb084f3b
 redirect_from:
   - /invest-and-smart-how-to-write-good-stories-6479fb084f3b
 ---

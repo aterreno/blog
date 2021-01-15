@@ -4,7 +4,7 @@ description: ""
 date: "2010-04-05T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/promote-environments-not-artifacts-3564d0a209ee
+canonical_link: https://javame.netlify.app//promote-environments-not-artifacts-3564d0a209ee
 redirect_from:
   - /promote-environments-not-artifacts-3564d0a209ee
 ---

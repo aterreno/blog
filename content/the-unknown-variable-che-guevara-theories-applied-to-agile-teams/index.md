@@ -4,7 +4,7 @@ description: ""
 date: "2010-03-01T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/the-unknown-variable-che-guevara-theories-applied-to-agile-teams-a3f4df26df79
+canonical_link: https://javame.netlify.app//the-unknown-variable-che-guevara-theories-applied-to-agile-teams-a3f4df26df79
 redirect_from:
   - /the-unknown-variable-che-guevara-theories-applied-to-agile-teams-a3f4df26df79
 ---

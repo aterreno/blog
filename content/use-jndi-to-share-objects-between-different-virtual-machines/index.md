@@ -4,7 +4,7 @@ description: ""
 date: "2006-05-08T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/use-jndi-to-share-objects-between-different-virtual-machines-c72e3df3d93d
+canonical_link: https://javame.netlify.app//use-jndi-to-share-objects-between-different-virtual-machines-c72e3df3d93d
 redirect_from:
   - /use-jndi-to-share-objects-between-different-virtual-machines-c72e3df3d93d
 ---

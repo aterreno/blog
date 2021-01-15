@@ -4,7 +4,7 @@ description: ""
 date: "2009-02-12T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/the-death-of-agile-bullocks-fed2c58753b
+canonical_link: https://javame.netlify.app//the-death-of-agile-bullocks-fed2c58753b
 redirect_from:
   - /the-death-of-agile-bullocks-fed2c58753b
 ---

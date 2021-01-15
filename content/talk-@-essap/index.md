@@ -4,7 +4,7 @@ description: ""
 date: "2007-05-26T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/talk-essap-4f9e57a3ed0b
+canonical_link: https://javame.netlify.app//talk-essap-4f9e57a3ed0b
 redirect_from:
   - /talk-essap-4f9e57a3ed0b
 ---

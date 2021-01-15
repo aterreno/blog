@@ -4,7 +4,7 @@ description: ""
 date: "2007-03-13T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/problem-in-websphere-6-0-ejbdeploy-31ad300fc6e9
+canonical_link: https://javame.netlify.app//problem-in-websphere-6-0-ejbdeploy-31ad300fc6e9
 redirect_from:
   - /problem-in-websphere-6-0-ejbdeploy-31ad300fc6e9
 ---

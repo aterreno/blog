@@ -4,7 +4,7 @@ description: ""
 date: "2007-01-22T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/my-personal-point-of-view-on-the-iphone-5933c77d293c
+canonical_link: https://javame.netlify.app//my-personal-point-of-view-on-the-iphone-5933c77d293c
 redirect_from:
   - /my-personal-point-of-view-on-the-iphone-5933c77d293c
 ---

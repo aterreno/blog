@@ -4,7 +4,7 @@ description: ""
 date: "2008-06-20T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/tda-test-driven-analysis-18ac580faeda
+canonical_link: https://javame.netlify.app//tda-test-driven-analysis-18ac580faeda
 redirect_from:
   - /tda-test-driven-analysis-18ac580faeda
 ---

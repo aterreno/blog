@@ -4,7 +4,7 @@ description: "I’ve started my first proper gig as a CTO in July 2017, today is
 date: "2019-06-27T14:50:07.102Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/post-mortem-what-did-i-learn-from-the-painful-downfall-of-a-startup-eefdc7c01042
+canonical_link: https://javame.netlify.app//post-mortem-what-did-i-learn-from-the-painful-downfall-of-a-startup-eefdc7c01042
 redirect_from:
   - /post-mortem-what-did-i-learn-from-the-painful-downfall-of-a-startup-eefdc7c01042
 ---

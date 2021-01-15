@@ -1,15 +1,15 @@
 ---
-title: "A cool guy, a cool software: Balsamiq application mockups"
+title: "A cool guy, a cool software: Balsamiq application mock-ups"
 description: ""
 date: "2008-11-19T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/a-cool-guy-a-cool-software-balsamiq-application-mockups-87afd59cbe9f
+canonical_link: https://javame.netlify.app//a-cool-guy-a-cool-software-balsamiq-application-mockups-87afd59cbe9f
 redirect_from:
   - /a-cool-guy-a-cool-software-balsamiq-application-mockups-87afd59cbe9f
 ---
 
-[Balsamiq mockup](http://www.balsamiq.com/products/mockups)s is a cool application to quickly, easily write applications mockups and share them on the web, some benefits taken from its website:
+[Balsamiq lockup](http://www.balsamiq.com/products/mockups)s is a cool application to quickly, easily write applications mockups and share them on the web, some benefits taken from its website:
 
 -   Improve your Usability
 -   Explore Different Designs in Minutes
@@ -23,7 +23,7 @@ Thanks to [Alberto](http://www.linkedin.com/in/alagna) that forwarded me this [b
 
 > The story is about Giacomo ‘Peldi’ Guilizzoni, a former Senior Software Engineering Lead at Adobe in San Francisco, who moved back to Italy and started a company called [Balsamiq](http://www.balsamiq.com/company).
 
-> His company is actually a "Micro-ISV" or a single-employee company. That is, a guy in a studio. A guy who wrote a product called "[Balsamiq Mockups](http://www.balsamiq.com/)" which allows anyone to build a mockup of a GUI: the genius is that the mockup resembles one you would scribble on a piece of paper, rather than a computer one. It sells online for $79.
+> His company is actually a "Micro-ISV" or a single-employee company. That is, a guy in a studio. A guy who wrote a product called "[Balsamiq Mockups](http://www.balsamiq.com/)" which allows anyone to build a mock-up of a GUI: the genius is that the mock-up resembles one you would scribble on a piece of paper, rather than a computer one. It sells online for $79.
 
 > To make the story short, the product is fantastic and he grossed over $100k in five months. And the business is growing fast.
 

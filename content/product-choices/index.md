@@ -4,7 +4,7 @@ description: ""
 date: "2009-05-06T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/product-choices-6aeaacff499f
+canonical_link: https://javame.netlify.app//product-choices-6aeaacff499f
 redirect_from:
   - /product-choices-6aeaacff499f
 ---

@@ -4,7 +4,7 @@ description: ""
 date: "2006-10-23T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/what-about-agile-estimating-and-planning-72a2c5fbf28e
+canonical_link: https://javame.netlify.app//what-about-agile-estimating-and-planning-72a2c5fbf28e
 redirect_from:
   - /what-about-agile-estimating-and-planning-72a2c5fbf28e
 ---

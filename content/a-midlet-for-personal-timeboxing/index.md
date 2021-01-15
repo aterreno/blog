@@ -4,7 +4,7 @@ description: ""
 date: "2007-07-29T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/a-midlet-for-personal-timeboxing-727e5adde7ca
+canonical_link: https://javame.netlify.app//a-midlet-for-personal-timeboxing-727e5adde7ca
 redirect_from:
   - /a-midlet-for-personal-timeboxing-727e5adde7ca
 ---

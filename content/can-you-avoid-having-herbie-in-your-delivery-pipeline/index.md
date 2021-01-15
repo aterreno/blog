@@ -4,7 +4,7 @@ description: "If you did read the Goal from Eliyahu M. Goldratt you will remembe
 date: "2018-01-01T19:01:01.507Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/can-you-avoid-having-herbie-in-your-delivery-pipeline-f3377ca21f1b
+canonical_link: https://javame.netlify.app//can-you-avoid-having-herbie-in-your-delivery-pipeline-f3377ca21f1b
 redirect_from:
   - /can-you-avoid-having-herbie-in-your-delivery-pipeline-f3377ca21f1b
 ---
@@ -14,11 +14,11 @@ _When I began to gather information for this series on operations management, I 
 
 If you did read [the Goal](https://en.wikipedia.org/wiki/The_Goal_%28novel%29) from Eliyahu M. Goldratt you will remember Herbie:
 
-> "The fat kid is the bottleneck! The fat kid is the bottleneck!" And indeed, once Alex realizes this, he sees that the group as a whole can only move as fast as poor little Herbie, the chubby scout who’s clogging things up in the middle of the line.
+> "The fat kid is the bottleneck! The fat kid is the bottleneck!" And indeed, once Alex realises this, he sees that the group as a whole can only move as fast as poor little Herbie, the chubby scout who’s clogging things up in the middle of the line.
 
 Can you avoid having Herbie at all in your delivery pipeline?
 
-After moving super fast at [Labrador](https://www.thelabrador.co.uk/) for a few months, by leveraging serverless and ‘friendly’ 3rd party api integration we had to integrate with an ‘old school’ system.
+After moving super fast at [Labrador](https://www.thelabrador.co.uk/) for a few months, by leveraging serverless and ‘friendly’ 3rd party API integration we had to integrate with an ‘old school’ system.
 
 Suddenly I felt all the pain of my years as a consultant: waiting weeks (in fact a month) for HTTP ports to be open on their systems, IP whitelisting, HTTPS certificates to be exchanged, conf calls talking about XML, SOAP, sftp.
 

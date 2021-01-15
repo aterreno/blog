@@ -4,7 +4,7 @@ description: ""
 date: "2007-04-05T00:00:00.000Z"
 categories: []
 published: true
-canonical_link: https://medium.com/@javame/time-to-say-goodbye-21c5ad3d2a7b
+canonical_link: https://javame.netlify.app//time-to-say-goodbye-21c5ad3d2a7b
 redirect_from:
   - /time-to-say-goodbye-21c5ad3d2a7b
 ---
