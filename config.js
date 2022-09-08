@@ -7,18 +7,18 @@ module.exports = {
   // It should complete the sentence: Written by Antonio Terreno ...
   shortBio: '',
   // a longer bio showing on the landing page of the blog
-  bio: `CTO @chargedupworld.`,
+  bio: `VP of Engineering @pharmaspectra.`,
   author: 'Antonio Terreno',
   githubUrl: 'https://github.com/aterreno/blog',
   // replace this by the url where your website will be published
-  siteUrl: 'https://javame.netlify.app/',
+  siteUrl: 'https://www.aterreno.com/',
   social: {
     // leave the social media you do not want to appear as empty strings
     twitter: 'javame',
-    medium: '@javame',
+    medium: '',
     facebook: '',
-    github: '',
-    linkedin: '',
+    github: 'aterreno',
+    linkedin: 'aterreno',
     instagram: '',
   },
   // GoatCounter code to enable analytics. See https://github.com/mathieudutour/medium-to-own-blog/tree/master/docs#analytics-tracking-page-views-etc
